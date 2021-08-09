@@ -6,10 +6,10 @@
         "HEAD": {
             "@SecCnt": "1",
             "DOCSUMMARY": {
-                "TITLE": "2017«–≥‚µµ Ω√¥Î¿Œ¿Á º≠πŸ¿Ãπ˙ πÆ¡¶¡ˆ æÁΩƒ",
-                "SUBJECT": "∞˙«–≈Ω±∏øµø™",
-                "AUTHOR": "Ω√¥Î¿Œ¿Á ƒ¡≈Ÿ√˜ ∞≥πﬂ∆¿",
-                "DATE": "2016≥‚ 6ø˘ 20¿œ ø˘ø‰¿œ ø¿»ƒ 4:10:32"
+                "TITLE": "2017ÌïôÎÖÑÎèÑ ÏãúÎåÄÏù∏Ïû¨ ÏÑúÎ∞îÏù¥Î≤å Î¨∏Ï†úÏßÄ ÏñëÏãù",
+                "SUBJECT": "Í≥ºÌïôÌÉêÍµ¨ÏòÅÏó≠",
+                "AUTHOR": "ÏãúÎåÄÏù∏Ïû¨ Ïª®ÌÖêÏ∏† Í∞úÎ∞úÌåÄ",
+                "DATE": "2016ÎÖÑ 6Ïõî 20Ïùº ÏõîÏöîÏùº Ïò§ÌõÑ 4:10:32"
             },
             "DOCSETTING": {
                 "BEGINNUMBER": {
@@ -35,7 +35,7 @@
                             "FONT": [
                                 {
                                     "@Id": "0",
-                                    "@Name": "µ∏øÚ√º",
+                                    "@Name": "ÎèãÏõÄÏ≤¥",
                                     "@Type": "ttf",
                                     "TYPEINFO": {
                                         "@ArmStyle": "1",
@@ -51,7 +51,7 @@
                                 },
                                 {
                                     "@Id": "1",
-                                    "@Name": "«—ƒƒπŸ≈¡",
+                                    "@Name": "ÌïúÏª¥Î∞îÌÉï",
                                     "@Type": "ttf",
                                     "TYPEINFO": {
                                         "@ArmStyle": "1",
@@ -67,7 +67,7 @@
                                 },
                                 {
                                     "@Id": "2",
-                                    "@Name": "«—æÁΩ≈∏Ì¡∂",
+                                    "@Name": "ÌïúÏñëÏã†Î™ÖÏ°∞",
                                     "@Type": "hft",
                                     "TYPEINFO": {
                                         "@ArmStyle": "0",
@@ -83,10 +83,10 @@
                                 },
                                 {
                                     "@Id": "3",
-                                    "@Name": "Ω≈∏Ì ¡ﬂ∞ÌµÒ",
+                                    "@Name": "Ïã†Î™Ö Ï§ëÍ≥†Îîï",
                                     "@Type": "hft",
                                     "SUBSTFONT": {
-                                        "@Name": "∞ÌµÒ",
+                                        "@Name": "Í≥†Îîï",
                                         "@Type": "hft"
                                     },
                                     "TYPEINFO": {
@@ -103,10 +103,10 @@
                                 },
                                 {
                                     "@Id": "4",
-                                    "@Name": "Ω≈∏Ì ¡ﬂ∏Ì¡∂",
+                                    "@Name": "Ïã†Î™Ö Ï§ëÎ™ÖÏ°∞",
                                     "@Type": "hft",
                                     "SUBSTFONT": {
-                                        "@Name": "∏Ì¡∂",
+                                        "@Name": "Î™ÖÏ°∞",
                                         "@Type": "hft"
                                     },
                                     "TYPEINFO": {
@@ -123,10 +123,10 @@
                                 },
                                 {
                                     "@Id": "5",
-                                    "@Name": "Ω≈∏Ì ≈¬∞ÌµÒ",
+                                    "@Name": "Ïã†Î™Ö ÌÉúÍ≥†Îîï",
                                     "@Type": "hft",
                                     "SUBSTFONT": {
-                                        "@Name": "∞ÌµÒ",
+                                        "@Name": "Í≥†Îîï",
                                         "@Type": "hft"
                                     },
                                     "TYPEINFO": {
@@ -149,7 +149,7 @@
                             "FONT": [
                                 {
                                     "@Id": "0",
-                                    "@Name": "µ∏øÚ√º",
+                                    "@Name": "ÎèãÏõÄÏ≤¥",
                                     "@Type": "ttf",
                                     "TYPEINFO": {
                                         "@ArmStyle": "1",
@@ -165,7 +165,7 @@
                                 },
                                 {
                                     "@Id": "1",
-                                    "@Name": "«—ƒƒπŸ≈¡",
+                                    "@Name": "ÌïúÏª¥Î∞îÌÉï",
                                     "@Type": "ttf",
                                     "TYPEINFO": {
                                         "@ArmStyle": "1",
@@ -184,7 +184,7 @@
                                     "@Name": "Century Old Style",
                                     "@Type": "ttf",
                                     "SUBSTFONT": {
-                                        "@Name": "«—ƒƒπŸ≈¡",
+                                        "@Name": "ÌïúÏª¥Î∞îÌÉï",
                                         "@Type": "ttf"
                                     }
                                 },
@@ -193,7 +193,7 @@
                                     "@Name": "NewCenturySchlbk-Roman",
                                     "@Type": "ttf",
                                     "SUBSTFONT": {
-                                        "@Name": "«—ƒƒπŸ≈¡",
+                                        "@Name": "ÌïúÏª¥Î∞îÌÉï",
                                         "@Type": "ttf"
                                     }
                                 },
@@ -202,7 +202,7 @@
                                     "@Name": "SM kyunchul myungjo",
                                     "@Type": "ttf",
                                     "SUBSTFONT": {
-                                        "@Name": "«—ƒƒπŸ≈¡",
+                                        "@Name": "ÌïúÏª¥Î∞îÌÉï",
                                         "@Type": "ttf"
                                     },
                                     "TYPEINFO": {
@@ -219,10 +219,10 @@
                                 },
                                 {
                                     "@Id": "5",
-                                    "@Name": "Ω≈∏Ì ¡ﬂ∏Ì¡∂",
+                                    "@Name": "Ïã†Î™Ö Ï§ëÎ™ÖÏ°∞",
                                     "@Type": "hft",
                                     "SUBSTFONT": {
-                                        "@Name": "πŸ≈¡",
+                                        "@Name": "Î∞îÌÉï",
                                         "@Type": "ttf"
                                     },
                                     "TYPEINFO": {
@@ -239,10 +239,10 @@
                                 },
                                 {
                                     "@Id": "6",
-                                    "@Name": "«—æÁΩ≈∏Ì¡∂",
+                                    "@Name": "ÌïúÏñëÏã†Î™ÖÏ°∞",
                                     "@Type": "hft",
                                     "SUBSTFONT": {
-                                        "@Name": "πŸ≈¡",
+                                        "@Name": "Î∞îÌÉï",
                                         "@Type": "ttf"
                                     },
                                     "TYPEINFO": {
@@ -265,7 +265,7 @@
                             "FONT": [
                                 {
                                     "@Id": "0",
-                                    "@Name": "µ∏øÚ√º",
+                                    "@Name": "ÎèãÏõÄÏ≤¥",
                                     "@Type": "ttf",
                                     "TYPEINFO": {
                                         "@ArmStyle": "1",
@@ -281,7 +281,7 @@
                                 },
                                 {
                                     "@Id": "1",
-                                    "@Name": "«—ƒƒπŸ≈¡",
+                                    "@Name": "ÌïúÏª¥Î∞îÌÉï",
                                     "@Type": "ttf",
                                     "TYPEINFO": {
                                         "@ArmStyle": "1",
@@ -300,7 +300,7 @@
                                     "@Name": "SM kyunchul myungjo",
                                     "@Type": "ttf",
                                     "SUBSTFONT": {
-                                        "@Name": "«‘√ ∑“πŸ≈¡",
+                                        "@Name": "Ìï®Ï¥àÎ°¨Î∞îÌÉï",
                                         "@Type": "ttf"
                                     },
                                     "TYPEINFO": {
@@ -317,10 +317,10 @@
                                 },
                                 {
                                     "@Id": "3",
-                                    "@Name": "Ω≈∏Ì ¡ﬂ∞ÌµÒ",
+                                    "@Name": "Ïã†Î™Ö Ï§ëÍ≥†Îîï",
                                     "@Type": "hft",
                                     "SUBSTFONT": {
-                                        "@Name": "µ∏øÚ",
+                                        "@Name": "ÎèãÏõÄ",
                                         "@Type": "ttf"
                                     },
                                     "TYPEINFO": {
@@ -337,10 +337,10 @@
                                 },
                                 {
                                     "@Id": "4",
-                                    "@Name": "Ω≈∏Ì ¡ﬂ∏Ì¡∂",
+                                    "@Name": "Ïã†Î™Ö Ï§ëÎ™ÖÏ°∞",
                                     "@Type": "hft",
                                     "SUBSTFONT": {
-                                        "@Name": "πŸ≈¡",
+                                        "@Name": "Î∞îÌÉï",
                                         "@Type": "ttf"
                                     },
                                     "TYPEINFO": {
@@ -357,10 +357,10 @@
                                 },
                                 {
                                     "@Id": "5",
-                                    "@Name": "Ω≈∏Ì ≈¬∞ÌµÒ",
+                                    "@Name": "Ïã†Î™Ö ÌÉúÍ≥†Îîï",
                                     "@Type": "hft",
                                     "SUBSTFONT": {
-                                        "@Name": "µ∏øÚ",
+                                        "@Name": "ÎèãÏõÄ",
                                         "@Type": "ttf"
                                     },
                                     "TYPEINFO": {
@@ -383,7 +383,7 @@
                             "FONT": [
                                 {
                                     "@Id": "0",
-                                    "@Name": "µ∏øÚ√º",
+                                    "@Name": "ÎèãÏõÄÏ≤¥",
                                     "@Type": "ttf",
                                     "TYPEINFO": {
                                         "@ArmStyle": "1",
@@ -399,7 +399,7 @@
                                 },
                                 {
                                     "@Id": "1",
-                                    "@Name": "«—ƒƒπŸ≈¡",
+                                    "@Name": "ÌïúÏª¥Î∞îÌÉï",
                                     "@Type": "ttf",
                                     "TYPEINFO": {
                                         "@ArmStyle": "1",
@@ -418,7 +418,7 @@
                                     "@Name": "SM kyunchul myungjo",
                                     "@Type": "ttf",
                                     "SUBSTFONT": {
-                                        "@Name": "«—ƒƒπŸ≈¡",
+                                        "@Name": "ÌïúÏª¥Î∞îÌÉï",
                                         "@Type": "ttf"
                                     },
                                     "TYPEINFO": {
@@ -435,10 +435,10 @@
                                 },
                                 {
                                     "@Id": "3",
-                                    "@Name": "#≈¬∞ÌµÒ",
+                                    "@Name": "#ÌÉúÍ≥†Îîï",
                                     "@Type": "hft",
                                     "SUBSTFONT": {
-                                        "@Name": "µ∏øÚ",
+                                        "@Name": "ÎèãÏõÄ",
                                         "@Type": "ttf"
                                     },
                                     "TYPEINFO": {
@@ -455,10 +455,10 @@
                                 },
                                 {
                                     "@Id": "4",
-                                    "@Name": "Ω≈∏Ì Ω≈∏Ì¡∂",
+                                    "@Name": "Ïã†Î™Ö Ïã†Î™ÖÏ°∞",
                                     "@Type": "hft",
                                     "SUBSTFONT": {
-                                        "@Name": "πŸ≈¡",
+                                        "@Name": "Î∞îÌÉï",
                                         "@Type": "ttf"
                                     },
                                     "TYPEINFO": {
@@ -475,10 +475,10 @@
                                 },
                                 {
                                     "@Id": "5",
-                                    "@Name": "Ω≈∏Ì ¡ﬂ∞ÌµÒ",
+                                    "@Name": "Ïã†Î™Ö Ï§ëÍ≥†Îîï",
                                     "@Type": "hft",
                                     "SUBSTFONT": {
-                                        "@Name": "µ∏øÚ",
+                                        "@Name": "ÎèãÏõÄ",
                                         "@Type": "ttf"
                                     },
                                     "TYPEINFO": {
@@ -495,10 +495,10 @@
                                 },
                                 {
                                     "@Id": "6",
-                                    "@Name": "«—æÁΩ≈∏Ì¡∂",
+                                    "@Name": "ÌïúÏñëÏã†Î™ÖÏ°∞",
                                     "@Type": "hft",
                                     "SUBSTFONT": {
-                                        "@Name": "πŸ≈¡",
+                                        "@Name": "Î∞îÌÉï",
                                         "@Type": "ttf"
                                     },
                                     "TYPEINFO": {
@@ -521,7 +521,7 @@
                             "FONT": [
                                 {
                                     "@Id": "0",
-                                    "@Name": "µ∏øÚ√º",
+                                    "@Name": "ÎèãÏõÄÏ≤¥",
                                     "@Type": "ttf",
                                     "TYPEINFO": {
                                         "@ArmStyle": "2",
@@ -537,7 +537,7 @@
                                 },
                                 {
                                     "@Id": "1",
-                                    "@Name": "«—ƒƒπŸ≈¡",
+                                    "@Name": "ÌïúÏª¥Î∞îÌÉï",
                                     "@Type": "ttf",
                                     "TYPEINFO": {
                                         "@ArmStyle": "1",
@@ -556,7 +556,7 @@
                                     "@Name": "SM kyunchul myungjo",
                                     "@Type": "ttf",
                                     "SUBSTFONT": {
-                                        "@Name": "«—ƒƒπŸ≈¡",
+                                        "@Name": "ÌïúÏª¥Î∞îÌÉï",
                                         "@Type": "ttf"
                                     },
                                     "TYPEINFO": {
@@ -573,10 +573,10 @@
                                 },
                                 {
                                     "@Id": "3",
-                                    "@Name": "«—æÁΩ≈∏Ì¡∂",
+                                    "@Name": "ÌïúÏñëÏã†Î™ÖÏ°∞",
                                     "@Type": "hft",
                                     "SUBSTFONT": {
-                                        "@Name": "πŸ≈¡",
+                                        "@Name": "Î∞îÌÉï",
                                         "@Type": "ttf"
                                     },
                                     "TYPEINFO": {
@@ -599,7 +599,7 @@
                             "FONT": [
                                 {
                                     "@Id": "0",
-                                    "@Name": "µ∏øÚ√º",
+                                    "@Name": "ÎèãÏõÄÏ≤¥",
                                     "@Type": "ttf",
                                     "TYPEINFO": {
                                         "@ArmStyle": "1",
@@ -615,7 +615,7 @@
                                 },
                                 {
                                     "@Id": "1",
-                                    "@Name": "«—ƒƒπŸ≈¡",
+                                    "@Name": "ÌïúÏª¥Î∞îÌÉï",
                                     "@Type": "ttf",
                                     "TYPEINFO": {
                                         "@ArmStyle": "1",
@@ -634,7 +634,7 @@
                                     "@Name": "NewCenturySchlbk-Roman",
                                     "@Type": "ttf",
                                     "SUBSTFONT": {
-                                        "@Name": "«—ƒƒπŸ≈¡",
+                                        "@Name": "ÌïúÏª¥Î∞îÌÉï",
                                         "@Type": "ttf"
                                     }
                                 },
@@ -643,7 +643,7 @@
                                     "@Name": "SM kyunchul myungjo",
                                     "@Type": "ttf",
                                     "SUBSTFONT": {
-                                        "@Name": "«—ƒƒπŸ≈¡",
+                                        "@Name": "ÌïúÏª¥Î∞îÌÉï",
                                         "@Type": "ttf"
                                     },
                                     "TYPEINFO": {
@@ -660,10 +660,10 @@
                                 },
                                 {
                                     "@Id": "4",
-                                    "@Name": "#¡ﬂ∏Ì¡∂",
+                                    "@Name": "#Ï§ëÎ™ÖÏ°∞",
                                     "@Type": "hft",
                                     "SUBSTFONT": {
-                                        "@Name": "πŸ≈¡",
+                                        "@Name": "Î∞îÌÉï",
                                         "@Type": "ttf"
                                     },
                                     "TYPEINFO": {
@@ -680,10 +680,10 @@
                                 },
                                 {
                                     "@Id": "5",
-                                    "@Name": "#≈¬∞ÌµÒ",
+                                    "@Name": "#ÌÉúÍ≥†Îîï",
                                     "@Type": "hft",
                                     "SUBSTFONT": {
-                                        "@Name": "πŸ≈¡",
+                                        "@Name": "Î∞îÌÉï",
                                         "@Type": "ttf"
                                     },
                                     "TYPEINFO": {
@@ -700,10 +700,10 @@
                                 },
                                 {
                                     "@Id": "6",
-                                    "@Name": "«—æÁΩ≈∏Ì¡∂",
+                                    "@Name": "ÌïúÏñëÏã†Î™ÖÏ°∞",
                                     "@Type": "hft",
                                     "SUBSTFONT": {
-                                        "@Name": "πŸ≈¡",
+                                        "@Name": "Î∞îÌÉï",
                                         "@Type": "ttf"
                                     },
                                     "TYPEINFO": {
@@ -726,7 +726,7 @@
                             "FONT": [
                                 {
                                     "@Id": "0",
-                                    "@Name": "µ∏øÚ√º",
+                                    "@Name": "ÎèãÏõÄÏ≤¥",
                                     "@Type": "ttf",
                                     "TYPEINFO": {
                                         "@ArmStyle": "1",
@@ -742,7 +742,7 @@
                                 },
                                 {
                                     "@Id": "1",
-                                    "@Name": "«—ƒƒπŸ≈¡",
+                                    "@Name": "ÌïúÏª¥Î∞îÌÉï",
                                     "@Type": "ttf",
                                     "TYPEINFO": {
                                         "@ArmStyle": "1",
@@ -761,7 +761,7 @@
                                     "@Name": "SM kyunchul myungjo",
                                     "@Type": "ttf",
                                     "SUBSTFONT": {
-                                        "@Name": "«—ƒƒπŸ≈¡",
+                                        "@Name": "ÌïúÏª¥Î∞îÌÉï",
                                         "@Type": "ttf"
                                     },
                                     "TYPEINFO": {
@@ -778,10 +778,10 @@
                                 },
                                 {
                                     "@Id": "3",
-                                    "@Name": "∏Ì¡∂",
+                                    "@Name": "Î™ÖÏ°∞",
                                     "@Type": "hft",
                                     "SUBSTFONT": {
-                                        "@Name": "πŸ≈¡",
+                                        "@Name": "Î∞îÌÉï",
                                         "@Type": "ttf"
                                     },
                                     "TYPEINFO": {
@@ -3864,7 +3864,7 @@
                             "@Id": "0",
                             "@LangId": "1042",
                             "@LockForm": "0",
-                            "@Name": "πŸ≈¡±€",
+                            "@Name": "Î∞îÌÉïÍ∏Ä",
                             "@NextStyle": "0",
                             "@ParaShape": "14",
                             "@Type": "Para"
@@ -3874,7 +3874,7 @@
                             "@Id": "1",
                             "@LangId": "1042",
                             "@LockForm": "0",
-                            "@Name": "π¯»£",
+                            "@Name": "Î≤àÌò∏",
                             "@NextStyle": "1",
                             "@ParaShape": "1",
                             "@Type": "Para"
@@ -3884,7 +3884,7 @@
                             "@Id": "2",
                             "@LangId": "1042",
                             "@LockForm": "0",
-                            "@Name": "πÆ¡¶",
+                            "@Name": "Î¨∏Ï†ú",
                             "@NextStyle": "0",
                             "@ParaShape": "0",
                             "@Type": "Para"
@@ -3894,7 +3894,7 @@
                             "@Id": "3",
                             "@LangId": "1042",
                             "@LockForm": "0",
-                            "@Name": "πÆ¡¶ æ∆∑°",
+                            "@Name": "Î¨∏Ï†ú ÏïÑÎûò",
                             "@NextStyle": "3",
                             "@ParaShape": "7",
                             "@Type": "Para"
@@ -3904,7 +3904,7 @@
                             "@Id": "4",
                             "@LangId": "1042",
                             "@LockForm": "0",
-                            "@Name": "∫Û¡Ÿ",
+                            "@Name": "ÎπàÏ§Ñ",
                             "@NextStyle": "4",
                             "@ParaShape": "9",
                             "@Type": "Para"
@@ -3914,7 +3914,7 @@
                             "@Id": "5",
                             "@LangId": "1042",
                             "@LockForm": "0",
-                            "@Name": "∫∏±‚ §°, §§, §ß",
+                            "@Name": "Î≥¥Í∏∞ „Ñ±, „Ñ¥, „Ñ∑",
                             "@NextStyle": "5",
                             "@ParaShape": "19",
                             "@Type": "Para"
@@ -3924,7 +3924,7 @@
                             "@Id": "6",
                             "@LangId": "1042",
                             "@LockForm": "0",
-                            "@Name": "®Á-5",
+                            "@Name": "‚ë†-5",
                             "@NextStyle": "0",
                             "@ParaShape": "5",
                             "@Type": "Para"
@@ -3934,7 +3934,7 @@
                             "@Id": "7",
                             "@LangId": "1042",
                             "@LockForm": "0",
-                            "@Name": "¿€æ˜ ¿¸ ¡§∏Æ",
+                            "@Name": "ÏûëÏóÖ Ï†Ñ Ï†ïÎ¶¨",
                             "@NextStyle": "0",
                             "@ParaShape": "16",
                             "@Type": "Para"
@@ -3944,7 +3944,7 @@
                             "@Id": "8",
                             "@LangId": "1042",
                             "@LockForm": "0",
-                            "@Name": "¡ˆπÆ≥ªøÎ",
+                            "@Name": "ÏßÄÎ¨∏ÎÇ¥Ïö©",
                             "@NextStyle": "0",
                             "@ParaShape": "15",
                             "@Type": "Para"
@@ -3954,7 +3954,7 @@
                             "@Id": "9",
                             "@LangId": "1042",
                             "@LockForm": "0",
-                            "@Name": "«•æ» ∞ÌµÒ",
+                            "@Name": "ÌëúÏïà Í≥†Îîï",
                             "@NextStyle": "9",
                             "@ParaShape": "12",
                             "@Type": "Para"
@@ -3974,7 +3974,7 @@
                             "@Id": "11",
                             "@LangId": "1042",
                             "@LockForm": "0",
-                            "@Name": "[°≠]π⁄Ω∫",
+                            "@Name": "[‚àº]Î∞ïÏä§",
                             "@NextStyle": "0",
                             "@ParaShape": "8",
                             "@Type": "Para"
@@ -3984,7 +3984,7 @@
                             "@Id": "12",
                             "@LangId": "1042",
                             "@LockForm": "0",
-                            "@Name": "π⁄Ω∫¡¶Ω√πÆ",
+                            "@Name": "Î∞ïÏä§Ï†úÏãúÎ¨∏",
                             "@NextStyle": "12",
                             "@ParaShape": "3",
                             "@Type": "Para"
@@ -3994,7 +3994,7 @@
                             "@Id": "13",
                             "@LangId": "1042",
                             "@LockForm": "0",
-                            "@Name": "1«‡¥‰«◊",
+                            "@Name": "1ÌñâÎãµÌï≠",
                             "@NextStyle": "13",
                             "@ParaShape": "10",
                             "@Type": "Para"
@@ -4004,7 +4004,7 @@
                             "@Id": "14",
                             "@LangId": "1042",
                             "@LockForm": "0",
-                            "@Name": "π⁄Ω∫≥ªøÎ",
+                            "@Name": "Î∞ïÏä§ÎÇ¥Ïö©",
                             "@NextStyle": "14",
                             "@ParaShape": "4",
                             "@Type": "Para"
@@ -4014,7 +4014,7 @@
                             "@Id": "15",
                             "@LangId": "1042",
                             "@LockForm": "0",
-                            "@Name": "®Á-3",
+                            "@Name": "‚ë†-3",
                             "@NextStyle": "0",
                             "@ParaShape": "6",
                             "@Type": "Para"
@@ -4024,7 +4024,7 @@
                             "@Id": "16",
                             "@LangId": "1042",
                             "@LockForm": "0",
-                            "@Name": "®Á-2",
+                            "@Name": "‚ë†-2",
                             "@NextStyle": "0",
                             "@ParaShape": "20",
                             "@Type": "Para"
@@ -4034,7 +4034,7 @@
                             "@Id": "17",
                             "@LangId": "1042",
                             "@LockForm": "0",
-                            "@Name": "¡ˆπÆπ⁄Ω∫",
+                            "@Name": "ÏßÄÎ¨∏Î∞ïÏä§",
                             "@NextStyle": "17",
                             "@ParaShape": "13",
                             "@Type": "Para"
@@ -4044,7 +4044,7 @@
                             "@Id": "18",
                             "@LangId": "1042",
                             "@LockForm": "0",
-                            "@Name": "¿⁄∑· ƒ∏º«",
+                            "@Name": "ÏûêÎ£å Ï∫°ÏÖò",
                             "@NextStyle": "0",
                             "@Type": "Char"
                         }
@@ -4302,7 +4302,7 @@
                                                                 "@Right": "0",
                                                                 "@Top": "0"
                                                             },
-                                                            "SHAPECOMMENT": "¥Ÿ∞¢«¸¿‘¥œ¥Ÿ."
+                                                            "SHAPECOMMENT": "Îã§Í∞ÅÌòïÏûÖÎãàÎã§."
                                                         },
                                                         "DRAWINGOBJECT": {
                                                             "SHAPECOMPONENT": {
@@ -4447,7 +4447,7 @@
                                                                 "@Right": "0",
                                                                 "@Top": "0"
                                                             },
-                                                            "SHAPECOMMENT": "¥Ÿ∞¢«¸¿‘¥œ¥Ÿ."
+                                                            "SHAPECOMMENT": "Îã§Í∞ÅÌòïÏûÖÎãàÎã§."
                                                         },
                                                         "DRAWINGOBJECT": {
                                                             "SHAPECOMPONENT": {
@@ -4629,7 +4629,7 @@
                                                         "@Style": "0",
                                                         "TEXT": {
                                                             "@CharShape": "22",
-                                                            "CHAR": "πÆ«◊ ƒ⁄µÂ"
+                                                            "CHAR": "Î¨∏Ìï≠ ÏΩîÎìú"
                                                         }
                                                     }
                                                 }
@@ -4664,7 +4664,7 @@
                                                         "@Style": "0",
                                                         "TEXT": {
                                                             "@CharShape": "22",
-                                                            "CHAR": "≥≠¿Ãµµ"
+                                                            "CHAR": "ÎÇúÏù¥ÎèÑ"
                                                         }
                                                     }
                                                 }
@@ -4699,7 +4699,7 @@
                                                         "@Style": "0",
                                                         "TEXT": {
                                                             "@CharShape": "22",
-                                                            "CHAR": "√‚¡¶¿⁄"
+                                                            "CHAR": "Ï∂úÏ†úÏûê"
                                                         }
                                                     }
                                                 }
@@ -4734,7 +4734,7 @@
                                                         "@Style": "0",
                                                         "TEXT": {
                                                             "@CharShape": "22",
-                                                            "CHAR": "∫Ò∞Ì"
+                                                            "CHAR": "ÎπÑÍ≥†"
                                                         }
                                                     }
                                                 }
@@ -4808,7 +4808,7 @@
                                                         "@Style": "0",
                                                         "TEXT": {
                                                             "@CharShape": "22",
-                                                            "CHAR": "¡ﬂ"
+                                                            "CHAR": "Ï§ë"
                                                         }
                                                     }
                                                 }
@@ -4843,7 +4843,7 @@
                                                         "@Style": "0",
                                                         "TEXT": {
                                                             "@CharShape": "22",
-                                                            "CHAR": "√∂øµπŒ"
+                                                            "CHAR": "Ï≤†ÏòÅÎØº"
                                                         }
                                                     }
                                                 }
@@ -4878,7 +4878,7 @@
                                                         "@Style": "0",
                                                         "TEXT": {
                                                             "@CharShape": "19",
-                                                            "CHAR": "¥„∑–, ¡§ªÛ∆ƒ ¿∂«’, Ω«ª˝»∞, ¡§∑Æ"
+                                                            "CHAR": "Îã¥Î°†, Ï†ïÏÉÅÌåå ÏúµÌï©, Ïã§ÏÉùÌôú, Ï†ïÎüâ"
                                                         }
                                                     }
                                                 }
@@ -4911,7 +4911,7 @@
                         "TEXT": [
                             {
                                 "@CharShape": "4",
-                                "CHAR": "Ω∫≈∏¿œ : πÆ¡¶ (±€¿⁄ ¿ßƒ° 0%¿Ãπ«∑Œ ∫ªπÆ¿Ã≥™ ∫∏±‚ø° ∫πªÁ«ÿµµ µ ) / ¿⁄∞£¿∫ -"
+                                "CHAR": "Ïä§ÌÉÄÏùº : Î¨∏Ï†ú (Í∏ÄÏûê ÏúÑÏπò 0%Ïù¥ÎØÄÎ°ú Î≥∏Î¨∏Ïù¥ÎÇò Î≥¥Í∏∞Ïóê Î≥µÏÇ¨Ìï¥ÎèÑ Îê®) / ÏûêÍ∞ÑÏùÄ -"
                             },
                             {
                                 "@CharShape": "23",
@@ -4919,7 +4919,7 @@
                             },
                             {
                                 "@CharShape": "4",
-                                "CHAR": "∫∏¥Ÿ ¥ı ¡º∞‘ ¡Ÿ¿Ã∏È æ» µ ."
+                                "CHAR": "Î≥¥Îã§ Îçî Ï¢ÅÍ≤å Ï§ÑÏù¥Î©¥ Ïïà Îê®."
                             }
                         ]
                     },
@@ -4928,7 +4928,7 @@
                         "@Style": "7",
                         "TEXT": {
                             "@CharShape": "0",
-                            "CHAR": "Ω∫≈∏¿œ : ¿€æ˜ ¿¸ ¡§∏Æ / ∞°øÓµ• ¡§∑ƒ"
+                            "CHAR": "Ïä§ÌÉÄÏùº : ÏûëÏóÖ Ï†Ñ Ï†ïÎ¶¨ / Í∞ÄÏö¥Îç∞ Ï†ïÎ†¨"
                         }
                     },
                     {
@@ -4937,7 +4937,7 @@
                         "TEXT": [
                             {
                                 "@CharShape": "4",
-                                "CHAR": "Ω∫≈∏¿œ : πÆ¡¶ æ∆∑° / ±‚∫ª ¿⁄∞£ -"
+                                "CHAR": "Ïä§ÌÉÄÏùº : Î¨∏Ï†ú ÏïÑÎûò / Í∏∞Î≥∏ ÏûêÍ∞Ñ -"
                             },
                             {
                                 "@CharShape": "23",
@@ -5068,7 +5068,7 @@
                                                                     null,
                                                                     null
                                                                 ],
-                                                                "#text": "<∫∏±‚>"
+                                                                "#text": "<Î≥¥Í∏∞>"
                                                             }
                                                         }
                                                     }
@@ -5214,7 +5214,7 @@
                                                         "@Style": "5",
                                                         "TEXT": {
                                                             "@CharShape": "25",
-                                                            "CHAR": "§°. Ω∫≈∏¿œ : ∫∏±‚ §°, §§, §ß / æ’¿∫ «—ƒ≠ ∂ÁæÓæ≤±‚"
+                                                            "CHAR": "„Ñ±. Ïä§ÌÉÄÏùº : Î≥¥Í∏∞ „Ñ±, „Ñ¥, „Ñ∑ / ÏïûÏùÄ ÌïúÏπ∏ ÎùÑÏñ¥Ïì∞Í∏∞"
                                                         }
                                                     },
                                                     {
@@ -5222,7 +5222,7 @@
                                                         "@Style": "5",
                                                         "TEXT": {
                                                             "@CharShape": "24",
-                                                            "CHAR": "§§. ∫∏±‚∞° « ø‰ æ¯¥¬ πÆ«◊¿∫ ¿Ã π⁄Ω∫∏¶ ≈Î¬∞∑Œ ªË¡¶"
+                                                            "CHAR": "„Ñ¥. Î≥¥Í∏∞Í∞Ä ÌïÑÏöî ÏóÜÎäî Î¨∏Ìï≠ÏùÄ Ïù¥ Î∞ïÏä§Î•º ÌÜµÏß∏Î°ú ÏÇ≠Ï†ú"
                                                         }
                                                     },
                                                     {
@@ -5238,7 +5238,7 @@
                                                                         null,
                                                                         null
                                                                     ],
-                                                                    "#text": "§ß. µŒ ¡Ÿ ¿ÃªÛ¿Ã ≥—æÓ∞°¥¬ ∞ÊøÏø°¥¬ Ctrl+Shift+Tab"
+                                                                    "#text": "„Ñ∑. Îëê Ï§Ñ Ïù¥ÏÉÅÏù¥ ÎÑòÏñ¥Í∞ÄÎäî Í≤ΩÏö∞ÏóêÎäî Ctrl+Shift+Tab"
                                                                 }
                                                             },
                                                             {
@@ -5263,11 +5263,9 @@
                             "CHAR": {
                                 "TAB": [
                                     null,
-                                    null,
-                                    null,
                                     null
                                 ],
-                                "#text": "®Á §°®Ë §§®È §ß®Í §°, §§®Î §§, §ß"
+                                "#text": "‚ë† „Ñ±‚ë° „Ñ¥‚ë¢ „Ñ∑‚ë£ „Ñ±, „Ñ¥‚ë§ „Ñ¥, „Ñ∑"
                             }
                         }
                     },
@@ -5290,7 +5288,7 @@
                         "@Style": "2",
                         "TEXT": {
                             "@CharShape": "0",
-                            "CHAR": "¡§¥‰ : ®È"
+                            "CHAR": "Ï†ïÎãµ : ‚ë¢"
                         }
                     },
                     {

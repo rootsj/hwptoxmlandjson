@@ -1,0 +1,723 @@
+{
+    "HWPML": {
+        "@Style": "export",
+        "@SubVersion": "10.0.0.0",
+        "@Version": "2.91",
+        "BODY": {
+            "SECTION": {
+                "@Id": "0",
+                "P": [
+                    {
+                        "@ColumnBreak": "false",
+                        "@PageBreak": "false",
+                        "@ParaShape": "14",
+                        "@Style": "0",
+                        "TEXT": {
+                            "@CharShape": "12",
+                            "TABLE": {
+                                "@BorderFill": "3",
+                                "@CellSpacing": "0",
+                                "@ColCount": "7",
+                                "@PageBreak": "Cell",
+                                "@RepeatHeader": "true",
+                                "@RowCount": "2",
+                                "SHAPEOBJECT": {
+                                    "@InstId": "1535634412"
+                                },
+                                "ROW": [
+                                    {
+                                        "CELL": [
+                                            {
+                                                "@BorderFill": "3",
+                                                "@ColAddr": "0",
+                                                "@ColSpan": "1",
+                                                "@Dirty": "false",
+                                                "@Editable": "false",
+                                                "@HasMargin": "false",
+                                                "@Header": "false",
+                                                "@Height": "1431",
+                                                "@Protect": "false",
+                                                "@RowAddr": "0",
+                                                "@RowSpan": "1",
+                                                "@Width": "7371",
+                                                "CELLMARGIN": {
+                                                    "@Bottom": "141",
+                                                    "@Left": "510",
+                                                    "@Right": "510",
+                                                    "@Top": "141"
+                                                },
+                                                "PARALIST": {
+                                                    "@LineWrap": "Break",
+                                                    "@LinkListID": "0",
+                                                    "@LinkListIDNext": "0",
+                                                    "@TextDirection": "0",
+                                                    "@VertAlign": "Center",
+                                                    "P": {
+                                                        "@ParaShape": "18",
+                                                        "@Style": "0",
+                                                        "TEXT": {
+                                                            "@CharShape": "22",
+                                                            "CHAR": "문항 코드"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "@BorderFill": "3",
+                                                "@ColAddr": "1",
+                                                "@ColSpan": "2",
+                                                "@Dirty": "false",
+                                                "@Editable": "false",
+                                                "@HasMargin": "false",
+                                                "@Header": "false",
+                                                "@Height": "1431",
+                                                "@Protect": "false",
+                                                "@RowAddr": "0",
+                                                "@RowSpan": "1",
+                                                "@Width": "3551",
+                                                "CELLMARGIN": {
+                                                    "@Bottom": "141",
+                                                    "@Left": "510",
+                                                    "@Right": "510",
+                                                    "@Top": "141"
+                                                },
+                                                "PARALIST": {
+                                                    "@LineWrap": "Break",
+                                                    "@LinkListID": "0",
+                                                    "@LinkListIDNext": "0",
+                                                    "@TextDirection": "0",
+                                                    "@VertAlign": "Center",
+                                                    "P": {
+                                                        "@ParaShape": "18",
+                                                        "@Style": "0",
+                                                        "TEXT": {
+                                                            "@CharShape": "22",
+                                                            "CHAR": "난이도"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "@BorderFill": "3",
+                                                "@ColAddr": "3",
+                                                "@ColSpan": "1",
+                                                "@Dirty": "false",
+                                                "@Editable": "false",
+                                                "@HasMargin": "false",
+                                                "@Header": "false",
+                                                "@Height": "1431",
+                                                "@Protect": "false",
+                                                "@RowAddr": "0",
+                                                "@RowSpan": "1",
+                                                "@Width": "3551",
+                                                "CELLMARGIN": {
+                                                    "@Bottom": "141",
+                                                    "@Left": "510",
+                                                    "@Right": "510",
+                                                    "@Top": "141"
+                                                },
+                                                "PARALIST": {
+                                                    "@LineWrap": "Break",
+                                                    "@LinkListID": "0",
+                                                    "@LinkListIDNext": "0",
+                                                    "@TextDirection": "0",
+                                                    "@VertAlign": "Center",
+                                                    "P": {
+                                                        "@ParaShape": "18",
+                                                        "@Style": "0",
+                                                        "TEXT": {
+                                                            "@CharShape": "22",
+                                                            "CHAR": "출제자"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "@BorderFill": "3",
+                                                "@ColAddr": "4",
+                                                "@ColSpan": "3",
+                                                "@Dirty": "false",
+                                                "@Editable": "false",
+                                                "@HasMargin": "false",
+                                                "@Header": "false",
+                                                "@Height": "1431",
+                                                "@Protect": "false",
+                                                "@RowAddr": "0",
+                                                "@RowSpan": "1",
+                                                "@Width": "17275",
+                                                "CELLMARGIN": {
+                                                    "@Bottom": "141",
+                                                    "@Left": "510",
+                                                    "@Right": "510",
+                                                    "@Top": "141"
+                                                },
+                                                "PARALIST": {
+                                                    "@LineWrap": "Break",
+                                                    "@LinkListID": "0",
+                                                    "@LinkListIDNext": "0",
+                                                    "@TextDirection": "0",
+                                                    "@VertAlign": "Center",
+                                                    "P": {
+                                                        "@ParaShape": "18",
+                                                        "@Style": "0",
+                                                        "TEXT": {
+                                                            "@CharShape": "22",
+                                                            "CHAR": "비고"
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "CELL": [
+                                            {
+                                                "@BorderFill": "3",
+                                                "@ColAddr": "0",
+                                                "@ColSpan": "1",
+                                                "@Dirty": "false",
+                                                "@Editable": "false",
+                                                "@HasMargin": "false",
+                                                "@Header": "false",
+                                                "@Height": "1431",
+                                                "@Protect": "false",
+                                                "@RowAddr": "1",
+                                                "@RowSpan": "1",
+                                                "@Width": "7371",
+                                                "CELLMARGIN": {
+                                                    "@Bottom": "141",
+                                                    "@Left": "510",
+                                                    "@Right": "510",
+                                                    "@Top": "141"
+                                                },
+                                                "PARALIST": {
+                                                    "@LineWrap": "Break",
+                                                    "@LinkListID": "0",
+                                                    "@LinkListIDNext": "0",
+                                                    "@TextDirection": "0",
+                                                    "@VertAlign": "Center",
+                                                    "P": {
+                                                        "@ParaShape": "18",
+                                                        "@Style": "0",
+                                                        "TEXT": {
+                                                            "@CharShape": "18",
+                                                            "CHAR": "00n-S190106"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "@BorderFill": "3",
+                                                "@ColAddr": "1",
+                                                "@ColSpan": "2",
+                                                "@Dirty": "false",
+                                                "@Editable": "false",
+                                                "@HasMargin": "false",
+                                                "@Header": "false",
+                                                "@Height": "1431",
+                                                "@Protect": "false",
+                                                "@RowAddr": "1",
+                                                "@RowSpan": "1",
+                                                "@Width": "3551",
+                                                "CELLMARGIN": {
+                                                    "@Bottom": "141",
+                                                    "@Left": "510",
+                                                    "@Right": "510",
+                                                    "@Top": "141"
+                                                },
+                                                "PARALIST": {
+                                                    "@LineWrap": "Break",
+                                                    "@LinkListID": "0",
+                                                    "@LinkListIDNext": "0",
+                                                    "@TextDirection": "0",
+                                                    "@VertAlign": "Center",
+                                                    "P": {
+                                                        "@ParaShape": "18",
+                                                        "@Style": "0",
+                                                        "TEXT": {
+                                                            "@CharShape": "22",
+                                                            "CHAR": "중"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "@BorderFill": "3",
+                                                "@ColAddr": "3",
+                                                "@ColSpan": "1",
+                                                "@Dirty": "false",
+                                                "@Editable": "false",
+                                                "@HasMargin": "false",
+                                                "@Header": "false",
+                                                "@Height": "1431",
+                                                "@Protect": "false",
+                                                "@RowAddr": "1",
+                                                "@RowSpan": "1",
+                                                "@Width": "3551",
+                                                "CELLMARGIN": {
+                                                    "@Bottom": "141",
+                                                    "@Left": "510",
+                                                    "@Right": "510",
+                                                    "@Top": "141"
+                                                },
+                                                "PARALIST": {
+                                                    "@LineWrap": "Break",
+                                                    "@LinkListID": "0",
+                                                    "@LinkListIDNext": "0",
+                                                    "@TextDirection": "0",
+                                                    "@VertAlign": "Center",
+                                                    "P": {
+                                                        "@ParaShape": "18",
+                                                        "@Style": "0",
+                                                        "TEXT": {
+                                                            "@CharShape": "22",
+                                                            "CHAR": "철영민"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "@BorderFill": "3",
+                                                "@ColAddr": "4",
+                                                "@ColSpan": "3",
+                                                "@Dirty": "false",
+                                                "@Editable": "false",
+                                                "@HasMargin": "false",
+                                                "@Header": "false",
+                                                "@Height": "1431",
+                                                "@Protect": "false",
+                                                "@RowAddr": "1",
+                                                "@RowSpan": "1",
+                                                "@Width": "17275",
+                                                "CELLMARGIN": {
+                                                    "@Bottom": "141",
+                                                    "@Left": "510",
+                                                    "@Right": "510",
+                                                    "@Top": "141"
+                                                },
+                                                "PARALIST": {
+                                                    "@LineWrap": "Break",
+                                                    "@LinkListID": "0",
+                                                    "@LinkListIDNext": "0",
+                                                    "@TextDirection": "0",
+                                                    "@VertAlign": "Center",
+                                                    "P": {
+                                                        "@ParaShape": "14",
+                                                        "@Style": "0",
+                                                        "TEXT": {
+                                                            "@CharShape": "19",
+                                                            "CHAR": "담론, 정상파 융합, 실생활, 정량"
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            "CHAR": null
+                        }
+                    },
+                    {
+                        "@ParaShape": "14",
+                        "@Style": "0",
+                        "TEXT": {
+                            "@CharShape": "12"
+                        }
+                    },
+                    {
+                        "@ParaShape": "1",
+                        "@Style": "1",
+                        "TEXT": {
+                            "@CharShape": "1",
+                            "CHAR": "1."
+                        }
+                    },
+                    {
+                        "@ParaShape": "0",
+                        "@Style": "2",
+                        "TEXT": [
+                            {
+                                "@CharShape": "4",
+                                "CHAR": "스타일 : 문제 (글자 위치 0%이므로 본문이나 보기에 복사해도 됨) / 자간은 -"
+                            },
+                            {
+                                "@CharShape": "23",
+                                "CHAR": "14%"
+                            },
+                            {
+                                "@CharShape": "4",
+                                "CHAR": "보다 더 좁게 줄이면 안 됨."
+                            }
+                        ]
+                    },
+                    {
+                        "@ParaShape": "2",
+                        "@Style": "7",
+                        "TEXT": {
+                            "@CharShape": "0",
+                            "CHAR": "스타일 : 작업 전 정리 / 가운데 정렬"
+                        }
+                    },
+                    {
+                        "@ParaShape": "7",
+                        "@Style": "3",
+                        "TEXT": [
+                            {
+                                "@CharShape": "4",
+                                "CHAR": "스타일 : 문제 아래 / 기본 자간 -"
+                            },
+                            {
+                                "@CharShape": "23",
+                                "CHAR": "4%"
+                            }
+                        ]
+                    },
+                    {
+                        "@ParaShape": "16",
+                        "@Style": "7",
+                        "TEXT": {
+                            "@CharShape": "0",
+                            "TABLE": {
+                                "@BorderFill": "4",
+                                "@CellSpacing": "0",
+                                "@ColCount": "3",
+                                "@PageBreak": "None",
+                                "@RepeatHeader": "true",
+                                "@RowCount": "3",
+                                "SHAPEOBJECT": {
+                                    "@InstId": "1515288096"
+                                },
+                                "ROW": [
+                                    {
+                                        "CELL": [
+                                            {
+                                                "@BorderFill": "7",
+                                                "@ColAddr": "0",
+                                                "@ColSpan": "1",
+                                                "@Dirty": "false",
+                                                "@Editable": "false",
+                                                "@HasMargin": "false",
+                                                "@Header": "false",
+                                                "@Height": "600",
+                                                "@Protect": "false",
+                                                "@RowAddr": "0",
+                                                "@RowSpan": "1",
+                                                "@Width": "13209",
+                                                "CELLMARGIN": {
+                                                    "@Bottom": "141",
+                                                    "@Left": "141",
+                                                    "@Right": "141",
+                                                    "@Top": "141"
+                                                },
+                                                "PARALIST": {
+                                                    "@LineWrap": "Break",
+                                                    "@LinkListID": "0",
+                                                    "@LinkListIDNext": "0",
+                                                    "@TextDirection": "0",
+                                                    "@VertAlign": "Center",
+                                                    "P": {
+                                                        "@ParaShape": "17",
+                                                        "@Style": "0",
+                                                        "TEXT": {
+                                                            "@CharShape": "8"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "@BorderFill": "6",
+                                                "@ColAddr": "1",
+                                                "@ColSpan": "1",
+                                                "@Dirty": "false",
+                                                "@Editable": "false",
+                                                "@HasMargin": "false",
+                                                "@Header": "false",
+                                                "@Height": "1346",
+                                                "@Protect": "false",
+                                                "@RowAddr": "0",
+                                                "@RowSpan": "2",
+                                                "@Width": "4322",
+                                                "CELLMARGIN": {
+                                                    "@Bottom": "141",
+                                                    "@Left": "141",
+                                                    "@Right": "141",
+                                                    "@Top": "141"
+                                                },
+                                                "PARALIST": {
+                                                    "@LineWrap": "Break",
+                                                    "@LinkListID": "0",
+                                                    "@LinkListIDNext": "0",
+                                                    "@TextDirection": "0",
+                                                    "@VertAlign": "Top",
+                                                    "P": {
+                                                        "@ParaShape": "18",
+                                                        "@Style": "0",
+                                                        "TEXT": {
+                                                            "@CharShape": "21",
+                                                            "CHAR": {
+                                                                "FWSPACE": [
+                                                                    null,
+                                                                    null,
+                                                                    null
+                                                                ],
+                                                                "#text": "<보기>"
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "@BorderFill": "7",
+                                                "@ColAddr": "2",
+                                                "@ColSpan": "1",
+                                                "@Dirty": "false",
+                                                "@Editable": "false",
+                                                "@HasMargin": "false",
+                                                "@Header": "false",
+                                                "@Height": "600",
+                                                "@Protect": "false",
+                                                "@RowAddr": "0",
+                                                "@RowSpan": "1",
+                                                "@Width": "13209",
+                                                "CELLMARGIN": {
+                                                    "@Bottom": "141",
+                                                    "@Left": "141",
+                                                    "@Right": "141",
+                                                    "@Top": "141"
+                                                },
+                                                "PARALIST": {
+                                                    "@LineWrap": "Break",
+                                                    "@LinkListID": "0",
+                                                    "@LinkListIDNext": "0",
+                                                    "@TextDirection": "0",
+                                                    "@VertAlign": "Center",
+                                                    "P": {
+                                                        "@ParaShape": "17",
+                                                        "@Style": "0",
+                                                        "TEXT": {
+                                                            "@CharShape": "9"
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "CELL": [
+                                            {
+                                                "@BorderFill": "8",
+                                                "@ColAddr": "0",
+                                                "@ColSpan": "1",
+                                                "@Dirty": "false",
+                                                "@Editable": "false",
+                                                "@HasMargin": "false",
+                                                "@Header": "false",
+                                                "@Height": "745",
+                                                "@Protect": "false",
+                                                "@RowAddr": "1",
+                                                "@RowSpan": "1",
+                                                "@Width": "13209",
+                                                "CELLMARGIN": {
+                                                    "@Bottom": "141",
+                                                    "@Left": "141",
+                                                    "@Right": "141",
+                                                    "@Top": "141"
+                                                },
+                                                "PARALIST": {
+                                                    "@LineWrap": "Break",
+                                                    "@LinkListID": "0",
+                                                    "@LinkListIDNext": "0",
+                                                    "@TextDirection": "0",
+                                                    "@VertAlign": "Center",
+                                                    "P": {
+                                                        "@ParaShape": "17",
+                                                        "@Style": "0",
+                                                        "TEXT": {
+                                                            "@CharShape": "8"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            {
+                                                "@BorderFill": "10",
+                                                "@ColAddr": "2",
+                                                "@ColSpan": "1",
+                                                "@Dirty": "false",
+                                                "@Editable": "false",
+                                                "@HasMargin": "false",
+                                                "@Header": "false",
+                                                "@Height": "746",
+                                                "@Protect": "false",
+                                                "@RowAddr": "1",
+                                                "@RowSpan": "1",
+                                                "@Width": "13209",
+                                                "CELLMARGIN": {
+                                                    "@Bottom": "141",
+                                                    "@Left": "141",
+                                                    "@Right": "141",
+                                                    "@Top": "141"
+                                                },
+                                                "PARALIST": {
+                                                    "@LineWrap": "Break",
+                                                    "@LinkListID": "0",
+                                                    "@LinkListIDNext": "0",
+                                                    "@TextDirection": "0",
+                                                    "@VertAlign": "Center",
+                                                    "P": {
+                                                        "@ParaShape": "17",
+                                                        "@Style": "0",
+                                                        "TEXT": {
+                                                            "@CharShape": "10"
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "CELL": {
+                                            "@BorderFill": "9",
+                                            "@ColAddr": "0",
+                                            "@ColSpan": "3",
+                                            "@Dirty": "false",
+                                            "@Editable": "false",
+                                            "@HasMargin": "true",
+                                            "@Header": "false",
+                                            "@Height": "6015",
+                                            "@Protect": "false",
+                                            "@RowAddr": "2",
+                                            "@RowSpan": "1",
+                                            "@Width": "30741",
+                                            "CELLMARGIN": {
+                                                "@Bottom": "992",
+                                                "@Left": "850",
+                                                "@Right": "850",
+                                                "@Top": "637"
+                                            },
+                                            "PARALIST": {
+                                                "@LineWrap": "Break",
+                                                "@LinkListID": "0",
+                                                "@LinkListIDNext": "0",
+                                                "@TextDirection": "0",
+                                                "@VertAlign": "Center",
+                                                "P": [
+                                                    {
+                                                        "@ParaShape": "21",
+                                                        "@Style": "5",
+                                                        "TEXT": {
+                                                            "@CharShape": "25",
+                                                            "CHAR": "ㄱ. 스타일 : 보기 ㄱ, ㄴ, ㄷ / 앞은 한칸 띄어쓰기"
+                                                        }
+                                                    },
+                                                    {
+                                                        "@ParaShape": "21",
+                                                        "@Style": "5",
+                                                        "TEXT": {
+                                                            "@CharShape": "24",
+                                                            "CHAR": "ㄴ. 보기가 필요 없는 문항은 이 박스를 통째로 삭제"
+                                                        }
+                                                    },
+                                                    {
+                                                        "@ParaShape": "21",
+                                                        "@Style": "5",
+                                                        "TEXT": [
+                                                            {
+                                                                "@CharShape": "27",
+                                                                "CHAR": {
+                                                                    "FWSPACE": [
+                                                                        null,
+                                                                        null,
+                                                                        null,
+                                                                        null
+                                                                    ],
+                                                                    "#text": "ㄷ. 두 줄 이상이 넘어가는 경우에는 Ctrl+Shift+Tab"
+                                                                }
+                                                            },
+                                                            {
+                                                                "@CharShape": "25"
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    }
+                                ]
+                            },
+                            "CHAR": null
+                        }
+                    },
+                    {
+                        "@ParaShape": "5",
+                        "@Style": "6",
+                        "TEXT": {
+                            "@CharShape": "26",
+                            "CHAR": {
+                                "TAB": [
+                                    null,
+                                    null,
+                                    null,
+                                    null
+                                ],
+                                "#text": "① ㄱ② ㄴ③ ㄷ④ ㄱ, ㄴ⑤ ㄴ, ㄷ"
+                            }
+                        }
+                    },
+                    {
+                        "@ParaShape": "14",
+                        "@Style": "0",
+                        "TEXT": {
+                            "@CharShape": "12"
+                        }
+                    },
+                    {
+                        "@ParaShape": "14",
+                        "@Style": "0",
+                        "TEXT": {
+                            "@CharShape": "12"
+                        }
+                    },
+                    {
+                        "@ParaShape": "0",
+                        "@Style": "2",
+                        "TEXT": {
+                            "@CharShape": "0",
+                            "CHAR": "정답 : ③"
+                        }
+                    },
+                    {
+                        "@ParaShape": "16",
+                        "@Style": "7",
+                        "TEXT": {
+                            "@CharShape": "0"
+                        }
+                    },
+                    {
+                        "@ParaShape": "14",
+                        "@Style": "0",
+                        "TEXT": {
+                            "@CharShape": "12"
+                        }
+                    },
+                    {
+                        "@ParaShape": "14",
+                        "@Style": "0",
+                        "TEXT": {
+                            "@CharShape": "12"
+                        }
+                    },
+                    {
+                        "@ColumnBreak": "true",
+                        "@PageBreak": "false",
+                        "@ParaShape": "1",
+                        "@Style": "1",
+                        "TEXT": {
+                            "@CharShape": "1"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}
