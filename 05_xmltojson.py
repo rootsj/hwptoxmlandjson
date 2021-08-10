@@ -5,7 +5,7 @@ with open("C:/Users/rootsj/Desktop/hiconcy/static/test.xml",'r', encoding="UTF-8
     xmlString = f.read()
  
 
-jsonString = json.dumps(xmltodict.parse(xmlString),
+jsonString = json.dumps(xmltodict.parse(xmlString, process_namespaces=True),
 ensure_ascii=False, 
 indent=4
 )

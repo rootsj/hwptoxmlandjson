@@ -97,8 +97,10 @@ class _DictSAXHandler(object):
         self.namespace_declarations[prefix or ''] = uri
 
     def startElement(self, full_name, attrs):
+        # print(full_name, attrs) -> 이미 나누어 있음
         name = self._build_name(full_name)
         attrs = self._attrs_to_dict(attrs)
+        # print(name, attrs) -> 여기서 char, fwspace 등 나누어버림
         if attrs and self.namespace_declarations:
             attrs['xmlns'] = self.namespace_declarations
             self.namespace_declarations = OrderedDict()
@@ -128,7 +130,6 @@ class _DictSAXHandler(object):
             if item is None:
                 item = (None if not self.data
                         else self.cdata_separator.join(self.data))
-
             should_continue = self.item_callback(self.path, item)
             if not should_continue:
                 raise ParsingInterrupted()
@@ -376,11 +377,10 @@ def parse(xml_input, encoding=None, expat=expat, process_namespaces=False,
 
 
 def _process_namespace(name, namespaces, ns_sep=':', attr_prefix='@'):
-    print('_process_namespace')
     if not namespaces:
         return name
     try:
-        ns, name = name.rsplit(ns_sep, 1)
+        ns, name = name.rsplict(ns_sep, 1)
     except ValueError:
         pass
     else:
@@ -403,7 +403,6 @@ def _emit(key, value, content_handler,
           namespaces=None,
           full_document=True,
           expand_iter=None):
-    print('emit')
     key = _process_namespace(key, namespaces, namespace_separator, attr_prefix)
     if preprocessor is not None:
         result = preprocessor(key, value)
@@ -515,7 +514,6 @@ def unparse(input_dict, output=None, encoding='utf-8', full_document=True,
 
 
 if __name__ == '__main__':  # pragma: no cover
-    print('sts')
     import sys
     import marshal
     try:

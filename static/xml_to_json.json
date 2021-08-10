@@ -5263,6 +5263,8 @@
                             "CHAR": {
                                 "TAB": [
                                     null,
+                                    null,
+                                    null,
                                     null
                                 ],
                                 "#text": "① ㄱ② ㄴ③ ㄷ④ ㄱ, ㄴ⑤ ㄴ, ㄷ"

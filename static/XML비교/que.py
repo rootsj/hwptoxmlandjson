@@ -1,0 +1,14 @@
+<P>
+    <TEXT>
+        <P>
+            <TEXT>
+                <CHAR>ABC<TAB/>A<TAB/>B<TAB/>C</CHAR>
+            </TEXT>
+        </P>
+    </TEXT>
+</P>
+<P>
+    <TEXT>
+        <CHAR>1<TAB/>2<TAB/>3<TAB/>4<TAB/>5</CHAR>
+    </TEXT>
+</P>
