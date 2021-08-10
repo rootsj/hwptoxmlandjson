@@ -2,7 +2,7 @@ import os
 import win32com.client as win32 
 import win32gui 
 
-BASE_DIR = "C:\\Users\\rootsj\\Desktop\\hiconcy\\static\\" 
+BASE_DIR = "C:\\Users\\rootsj\\Desktop\\hiconsy\\static\\" 
 os.chdir(BASE_DIR)
 
 hwp = win32.gencache.EnsureDispatch("HWPFrame.HwpObject") 

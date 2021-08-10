@@ -1,7 +1,7 @@
 import os 
 import win32com.client as win32 
 
-BASE_DIR = "C:\\Users\\rootsj\\Desktop\\hiconcy\\static\\" 
+BASE_DIR = "C:\\Users\\rootsj\\Desktop\\hiconsy\\static\\" 
 os.chdir(BASE_DIR)
 
 print(os.listdir())
