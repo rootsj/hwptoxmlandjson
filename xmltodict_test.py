@@ -97,10 +97,8 @@ class _DictSAXHandler(object):
         self.namespace_declarations[prefix or ''] = uri
 
     def startElement(self, full_name, attrs):
-        # print(full_name, attrs) -> 이미 나누어 있음
         name = self._build_name(full_name)
         attrs = self._attrs_to_dict(attrs)
-        # print(name, attrs) -> 여기서 char, fwspace 등 나누어버림
         if attrs and self.namespace_declarations:
             attrs['xmlns'] = self.namespace_declarations
             self.namespace_declarations = OrderedDict()

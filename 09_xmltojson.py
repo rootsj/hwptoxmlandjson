@@ -1,7 +1,10 @@
 import json
-import xmltodict
+# import xmltodict
 # import xmltodict_test as xmltodict
 # xmltodict customize
+
+import xmltodict_test2 as xmltodict
+# xmltodict 초기버전 v0.2
 
 with open("C:/Users/rootsj/Desktop/hiconsy/static/test.xml",'r', encoding="UTF-8") as f:
     xmlString = f.read()
@@ -38,6 +41,7 @@ ensure_ascii=False,
 indent=4
 )
 
+print(jsonString)
 # print(jsonString)
 # jsonString = json.dumps(xmltodict.parse(xmlString),
 # ensure_ascii=False, 
@@ -51,28 +55,28 @@ indent=4
 
 
 
-xml  =  ''' 
-<doc> 
-    <item>Item1</item> 
-    <item>Item2</item> 
-    <item>Item3</item> 
-    <item>Item4</item> 
-</doc>''' 
+# xml  =  ''' 
+# <doc> 
+#     <item>Item1</item> 
+#     <item>Item2</item> 
+#     <item>Item3</item> 
+#     <item>Item4</item> 
+# </doc>''' 
 
-class SkipOddValues:
-    def __init__(self, key):
-        self.key = key
-        self.count = 0
+# class SkipOddValues:
+#     def __init__(self, key):
+#         self.key = key
+#         self.count = 0
 
-    def __call__(self, path, key, value):
-        if key != self.key:
-            return key, value
-        self.count += 1
-        if self.count % 2 == 1:
-            return None
-        else:
-            return key, value
+#     def __call__(self, path, key, value):
+#         if key != self.key:
+#             return key, value
+#         self.count += 1
+#         if self.count % 2 == 1:
+#             return None
+#         else:
+#             return key, value
 
-doc = xmltodict.parse(xml, postprocessor=SkipOddValues('item'))
+# doc = xmltodict.parse(xml, postprocessor=SkipOddValues('item'))
 
-print(doc)
+# print(doc)
