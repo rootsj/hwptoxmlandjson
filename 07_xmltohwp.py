@@ -12,7 +12,7 @@ hwp = win32.gencache.EnsureDispatch("HWPFrame.HwpObject")
 #     xml1 = f.read()
 
 # # test2, HWP -> XML -> JSON -> XML -> HWP
-with open("C:/Users/rootsj/Desktop/hiconsy/static/json_to_xml2.xml",'r', encoding="UTF-8") as f:
+with open("C:/Users/rootsj/Desktop/hiconsy/static/json_to_xml5.xml",'r', encoding="UTF-8") as f:
     xml2 = f.read()
 
 

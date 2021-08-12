@@ -1,0 +1,3581 @@
+{
+    "HWPML": {
+        "@Style": "embed",
+        "@SubVersion": "10.0.0.0",
+        "@Version": "2.91",
+        "HEAD": {
+            "@SecCnt": "1",
+            "DOCSUMMARY": {
+                "TITLE": "2017학년도 시대인재 서바이벌 문제지 양식",
+                "SUBJECT": "과학탐구영역",
+                "AUTHOR": "시대인재 컨텐츠 개발팀",
+                "DATE": "2016년 6월 20일 월요일 오후 4:10:32"
+            },
+            "DOCSETTING": {
+                "BEGINNUMBER": {
+                    "Endnote": "1",
+                    "Equation": "1",
+                    "Footnote": "1",
+                    "Page": "1",
+                    "Picture": "1",
+                    "Table": "1"
+                },
+                "CARETPOS": {
+                    "List": "11",
+                    "Para": "0",
+                    "Pos": "6"
+                }
+            },
+            "MAPPINGTABLE": {
+                "FACENAMELIST": {
+                    "FONTFACE": [
+                        {
+                            "@Count": "6",
+                            "@Lang": "Hangul"
+                        },
+                        {
+                            "@Count": "7",
+                            "@Lang": "Latin"
+                        },
+                        {
+                            "@Count": "6",
+                            "@Lang": "Hanja"
+                        },
+                        {
+                            "@Count": "7",
+                            "@Lang": "Japanese"
+                        },
+                        {
+                            "@Count": "4",
+                            "@Lang": "Other"
+                        },
+                        {
+                            "@Count": "7",
+                            "@Lang": "Symbol"
+                        },
+                        {
+                            "@Count": "4",
+                            "@Lang": "User"
+                        }
+                    ]
+                },
+                "BORDERFILLLIST": {
+                    "BORDERFILL": [
+                        {
+                            "@BackSlash": "0",
+                            "@BreakCellSeparateLine": "0",
+                            "@CenterLine": "0",
+                            "@CounterBackSlash": "0",
+                            "@CounterSlash": "0",
+                            "@CrookedSlash": "0",
+                            "@Id": "1",
+                            "@Shadow": "false",
+                            "@Slash": "0",
+                            "@ThreeD": "false",
+                            "LEFTBORDER": {
+                                "Type": "None",
+                                "Width": "0.1mm"
+                            },
+                            "RIGHTBORDER": {
+                                "Type": "None",
+                                "Width": "0.1mm"
+                            },
+                            "TOPBORDER": {
+                                "Type": "None",
+                                "Width": "0.1mm"
+                            },
+                            "BOTTOMBORDER": {
+                                "Type": "None",
+                                "Width": "0.1mm"
+                            },
+                            "DIAGONAL": {
+                                "Type": "Solid",
+                                "Width": "0.1mm"
+                            }
+                        },
+                        {
+                            "@BackSlash": "0",
+                            "@BreakCellSeparateLine": "0",
+                            "@CenterLine": "0",
+                            "@CounterBackSlash": "0",
+                            "@CounterSlash": "0",
+                            "@CrookedSlash": "0",
+                            "@Id": "2",
+                            "@Shadow": "false",
+                            "@Slash": "0",
+                            "@ThreeD": "false",
+                            "LEFTBORDER": {
+                                "Type": "None",
+                                "Width": "0.1mm"
+                            },
+                            "RIGHTBORDER": {
+                                "Type": "None",
+                                "Width": "0.1mm"
+                            },
+                            "TOPBORDER": {
+                                "Type": "None",
+                                "Width": "0.1mm"
+                            },
+                            "BOTTOMBORDER": {
+                                "Type": "None",
+                                "Width": "0.1mm"
+                            },
+                            "DIAGONAL": {
+                                "Type": "Solid",
+                                "Width": "0.1mm"
+                            },
+                            "FILLBRUSH": {
+                                "WINDOWBRUSH": {
+                                    "Alpha": "0",
+                                    "FaceColor": "4294967295",
+                                    "HatchColor": "4278190080"
+                                }
+                            }
+                        },
+                        {
+                            "@BackSlash": "0",
+                            "@BreakCellSeparateLine": "0",
+                            "@CenterLine": "0",
+                            "@CounterBackSlash": "0",
+                            "@CounterSlash": "0",
+                            "@CrookedSlash": "0",
+                            "@Id": "3",
+                            "@Shadow": "false",
+                            "@Slash": "0",
+                            "@ThreeD": "false",
+                            "LEFTBORDER": {
+                                "Type": "Solid",
+                                "Width": "0.12mm"
+                            },
+                            "RIGHTBORDER": {
+                                "Type": "Solid",
+                                "Width": "0.12mm"
+                            },
+                            "TOPBORDER": {
+                                "Type": "Solid",
+                                "Width": "0.12mm"
+                            },
+                            "BOTTOMBORDER": {
+                                "Type": "Solid",
+                                "Width": "0.12mm"
+                            },
+                            "DIAGONAL": {
+                                "Type": "Solid",
+                                "Width": "0.1mm"
+                            }
+                        },
+                        {
+                            "@BackSlash": "0",
+                            "@BreakCellSeparateLine": "0",
+                            "@CenterLine": "0",
+                            "@CounterBackSlash": "0",
+                            "@CounterSlash": "0",
+                            "@CrookedSlash": "0",
+                            "@Id": "4",
+                            "@Shadow": "false",
+                            "@Slash": "0",
+                            "@ThreeD": "false",
+                            "LEFTBORDER": {
+                                "Type": "Solid",
+                                "Width": "0.12mm"
+                            },
+                            "RIGHTBORDER": {
+                                "Type": "Solid",
+                                "Width": "0.12mm"
+                            },
+                            "TOPBORDER": {
+                                "Type": "Solid",
+                                "Width": "0.12mm"
+                            },
+                            "BOTTOMBORDER": {
+                                "Type": "Solid",
+                                "Width": "0.12mm"
+                            }
+                        },
+                        {
+                            "@BackSlash": "0",
+                            "@BreakCellSeparateLine": "0",
+                            "@CenterLine": "0",
+                            "@CounterBackSlash": "0",
+                            "@CounterSlash": "0",
+                            "@CrookedSlash": "0",
+                            "@Id": "5",
+                            "@Shadow": "false",
+                            "@Slash": "0",
+                            "@ThreeD": "false",
+                            "LEFTBORDER": {
+                                "Color": "6723891",
+                                "Type": "None",
+                                "Width": "0.1mm"
+                            },
+                            "RIGHTBORDER": {
+                                "Color": "6723891",
+                                "Type": "None",
+                                "Width": "0.1mm"
+                            },
+                            "TOPBORDER": {
+                                "Color": "6723891",
+                                "Type": "None",
+                                "Width": "0.1mm"
+                            },
+                            "BOTTOMBORDER": {
+                                "Color": "6723891",
+                                "Type": "None",
+                                "Width": "0.1mm"
+                            }
+                        },
+                        {
+                            "@BackSlash": "0",
+                            "@BreakCellSeparateLine": "0",
+                            "@CenterLine": "0",
+                            "@CounterBackSlash": "0",
+                            "@CounterSlash": "0",
+                            "@CrookedSlash": "0",
+                            "@Id": "6",
+                            "@Shadow": "false",
+                            "@Slash": "0",
+                            "@ThreeD": "false",
+                            "LEFTBORDER": {
+                                "Type": "None",
+                                "Width": "0.1mm"
+                            },
+                            "RIGHTBORDER": {
+                                "Type": "None",
+                                "Width": "0.1mm"
+                            },
+                            "TOPBORDER": {
+                                "Type": "None",
+                                "Width": "0.1mm"
+                            },
+                            "BOTTOMBORDER": {
+                                "Type": "None",
+                                "Width": "0.1mm"
+                            },
+                            "DIAGONAL": {
+                                "Type": "Solid",
+                                "Width": "0.12mm"
+                            }
+                        },
+                        {
+                            "@BackSlash": "0",
+                            "@BreakCellSeparateLine": "0",
+                            "@CenterLine": "0",
+                            "@CounterBackSlash": "0",
+                            "@CounterSlash": "0",
+                            "@CrookedSlash": "0",
+                            "@Id": "7",
+                            "@Shadow": "false",
+                            "@Slash": "0",
+                            "@ThreeD": "false",
+                            "LEFTBORDER": {
+                                "Type": "None",
+                                "Width": "0.1mm"
+                            },
+                            "RIGHTBORDER": {
+                                "Type": "None",
+                                "Width": "0.1mm"
+                            },
+                            "TOPBORDER": {
+                                "Type": "None",
+                                "Width": "0.1mm"
+                            },
+                            "BOTTOMBORDER": {
+                                "Type": "Solid",
+                                "Width": "0.12mm"
+                            },
+                            "DIAGONAL": {
+                                "Type": "Solid",
+                                "Width": "0.12mm"
+                            }
+                        },
+                        {
+                            "@BackSlash": "0",
+                            "@BreakCellSeparateLine": "0",
+                            "@CenterLine": "0",
+                            "@CounterBackSlash": "0",
+                            "@CounterSlash": "0",
+                            "@CrookedSlash": "0",
+                            "@Id": "8",
+                            "@Shadow": "false",
+                            "@Slash": "0",
+                            "@ThreeD": "false",
+                            "LEFTBORDER": {
+                                "Type": "Solid",
+                                "Width": "0.12mm"
+                            },
+                            "RIGHTBORDER": {
+                                "Type": "None",
+                                "Width": "0.1mm"
+                            },
+                            "TOPBORDER": {
+                                "Type": "Solid",
+                                "Width": "0.12mm"
+                            },
+                            "BOTTOMBORDER": {
+                                "Type": "None",
+                                "Width": "0.1mm"
+                            },
+                            "DIAGONAL": {
+                                "Type": "Solid",
+                                "Width": "0.12mm"
+                            }
+                        },
+                        {
+                            "@BackSlash": "0",
+                            "@BreakCellSeparateLine": "0",
+                            "@CenterLine": "0",
+                            "@CounterBackSlash": "0",
+                            "@CounterSlash": "0",
+                            "@CrookedSlash": "0",
+                            "@Id": "9",
+                            "@Shadow": "false",
+                            "@Slash": "0",
+                            "@ThreeD": "false",
+                            "LEFTBORDER": {
+                                "Type": "Solid",
+                                "Width": "0.12mm"
+                            },
+                            "RIGHTBORDER": {
+                                "Type": "Solid",
+                                "Width": "0.12mm"
+                            },
+                            "TOPBORDER": {
+                                "Type": "None",
+                                "Width": "0.1mm"
+                            },
+                            "BOTTOMBORDER": {
+                                "Type": "Solid",
+                                "Width": "0.12mm"
+                            },
+                            "DIAGONAL": {
+                                "Type": "Solid",
+                                "Width": "0.12mm"
+                            }
+                        },
+                        {
+                            "@BackSlash": "0",
+                            "@BreakCellSeparateLine": "0",
+                            "@CenterLine": "0",
+                            "@CounterBackSlash": "0",
+                            "@CounterSlash": "0",
+                            "@CrookedSlash": "0",
+                            "@Id": "10",
+                            "@Shadow": "false",
+                            "@Slash": "0",
+                            "@ThreeD": "false",
+                            "LEFTBORDER": {
+                                "Type": "None",
+                                "Width": "0.1mm"
+                            },
+                            "RIGHTBORDER": {
+                                "Type": "Solid",
+                                "Width": "0.12mm"
+                            },
+                            "TOPBORDER": {
+                                "Type": "Solid",
+                                "Width": "0.12mm"
+                            },
+                            "BOTTOMBORDER": {
+                                "Type": "None",
+                                "Width": "0.1mm"
+                            },
+                            "DIAGONAL": {
+                                "Type": "Solid",
+                                "Width": "0.12mm"
+                            }
+                        }
+                    ],
+                    "Count": "10"
+                },
+                "CHARSHAPELIST": {
+                    "CHARSHAPE": [
+                        {
+                            "@BorderFillId": "2",
+                            "@Height": "1150",
+                            "@Id": "0",
+                            "@ShadeColor": "4294967295",
+                            "@SymMark": "0",
+                            "@TextColor": "0",
+                            "@UseFontSpace": "false",
+                            "@UseKerning": "false",
+                            "FONTID": {
+                                "Hangul": "4",
+                                "Hanja": "4",
+                                "Japanese": "4",
+                                "Latin": "5",
+                                "Other": "3",
+                                "Symbol": "6",
+                                "User": "3"
+                            },
+                            "RATIO": {
+                                "Hangul": "95",
+                                "Hanja": "95",
+                                "Japanese": "95",
+                                "Latin": "95",
+                                "Other": "95",
+                                "Symbol": "95",
+                                "User": "95"
+                            },
+                            "CHARSPACING": {
+                                "Hangul": "-3",
+                                "Hanja": "-3",
+                                "Japanese": "-3",
+                                "Latin": "-3",
+                                "Other": "-3",
+                                "Symbol": "-3",
+                                "User": "-3"
+                            },
+                            "RELSIZE": {
+                                "Hangul": "100",
+                                "Hanja": "100",
+                                "Japanese": "100",
+                                "Latin": "100",
+                                "Other": "100",
+                                "Symbol": "100",
+                                "User": "100"
+                            },
+                            "CHAROFFSET": {
+                                "Hangul": "0",
+                                "Hanja": "0",
+                                "Japanese": "0",
+                                "Latin": "0",
+                                "Other": "0",
+                                "Symbol": "0",
+                                "User": "0"
+                            }
+                        },
+                        {
+                            "@BorderFillId": "2",
+                            "@Height": "1500",
+                            "@Id": "1",
+                            "@ShadeColor": "4294967295",
+                            "@SymMark": "0",
+                            "@TextColor": "0",
+                            "@UseFontSpace": "false",
+                            "@UseKerning": "false",
+                            "FONTID": {
+                                "Hangul": "4",
+                                "Hanja": "4",
+                                "Japanese": "4",
+                                "Latin": "3",
+                                "Other": "3",
+                                "Symbol": "2",
+                                "User": "3"
+                            },
+                            "RATIO": {
+                                "Hangul": "92",
+                                "Hanja": "92",
+                                "Japanese": "92",
+                                "Latin": "92",
+                                "Other": "92",
+                                "Symbol": "92",
+                                "User": "92"
+                            },
+                            "CHARSPACING": {
+                                "Hangul": "-11",
+                                "Hanja": "-11",
+                                "Japanese": "-11",
+                                "Latin": "-11",
+                                "Other": "-11",
+                                "Symbol": "-11",
+                                "User": "-11"
+                            },
+                            "RELSIZE": {
+                                "Hangul": "100",
+                                "Hanja": "100",
+                                "Japanese": "100",
+                                "Latin": "100",
+                                "Other": "100",
+                                "Symbol": "100",
+                                "User": "100"
+                            },
+                            "CHAROFFSET": {
+                                "Hangul": "-4",
+                                "Hanja": "-4",
+                                "Japanese": "-4",
+                                "Latin": "-4",
+                                "Other": "-4",
+                                "Symbol": "-4",
+                                "User": "-4"
+                            }
+                        },
+                        {
+                            "@BorderFillId": "2",
+                            "@Height": "1150",
+                            "@Id": "2",
+                            "@ShadeColor": "4294967295",
+                            "@SymMark": "0",
+                            "@TextColor": "0",
+                            "@UseFontSpace": "false",
+                            "@UseKerning": "false",
+                            "FONTID": {
+                                "Hangul": "4",
+                                "Hanja": "2",
+                                "Japanese": "2",
+                                "Latin": "4",
+                                "Other": "2",
+                                "Symbol": "3",
+                                "User": "2"
+                            },
+                            "RATIO": {
+                                "Hangul": "95",
+                                "Hanja": "95",
+                                "Japanese": "95",
+                                "Latin": "95",
+                                "Other": "95",
+                                "Symbol": "95",
+                                "User": "100"
+                            },
+                            "CHARSPACING": {
+                                "Hangul": "-3",
+                                "Hanja": "0",
+                                "Japanese": "0",
+                                "Latin": "-3",
+                                "Other": "0",
+                                "Symbol": "0",
+                                "User": "-6"
+                            },
+                            "RELSIZE": {
+                                "Hangul": "100",
+                                "Hanja": "100",
+                                "Japanese": "100",
+                                "Latin": "100",
+                                "Other": "100",
+                                "Symbol": "100",
+                                "User": "100"
+                            },
+                            "CHAROFFSET": {
+                                "Hangul": "0",
+                                "Hanja": "0",
+                                "Japanese": "0",
+                                "Latin": "0",
+                                "Other": "0",
+                                "Symbol": "0",
+                                "User": "0"
+                            }
+                        },
+                        {
+                            "@BorderFillId": "2",
+                            "@Height": "900",
+                            "@Id": "3",
+                            "@ShadeColor": "4294967295",
+                            "@SymMark": "0",
+                            "@TextColor": "0",
+                            "@UseFontSpace": "false",
+                            "@UseKerning": "false",
+                            "FONTID": {
+                                "Hangul": "4",
+                                "Hanja": "4",
+                                "Japanese": "4",
+                                "Latin": "5",
+                                "Other": "3",
+                                "Symbol": "6",
+                                "User": "3"
+                            },
+                            "RATIO": {
+                                "Hangul": "100",
+                                "Hanja": "100",
+                                "Japanese": "100",
+                                "Latin": "100",
+                                "Other": "100",
+                                "Symbol": "100",
+                                "User": "100"
+                            },
+                            "CHARSPACING": {
+                                "Hangul": "0",
+                                "Hanja": "0",
+                                "Japanese": "0",
+                                "Latin": "0",
+                                "Other": "0",
+                                "Symbol": "0",
+                                "User": "0"
+                            },
+                            "RELSIZE": {
+                                "Hangul": "100",
+                                "Hanja": "100",
+                                "Japanese": "100",
+                                "Latin": "100",
+                                "Other": "100",
+                                "Symbol": "100",
+                                "User": "100"
+                            },
+                            "CHAROFFSET": {
+                                "Hangul": "0",
+                                "Hanja": "0",
+                                "Japanese": "0",
+                                "Latin": "0",
+                                "Other": "0",
+                                "Symbol": "0",
+                                "User": "0"
+                            }
+                        },
+                        {
+                            "@BorderFillId": "2",
+                            "@Height": "1150",
+                            "@Id": "4",
+                            "@ShadeColor": "4294967295",
+                            "@SymMark": "0",
+                            "@TextColor": "0",
+                            "@UseFontSpace": "false",
+                            "@UseKerning": "false",
+                            "FONTID": {
+                                "Hangul": "4",
+                                "Hanja": "4",
+                                "Japanese": "4",
+                                "Latin": "5",
+                                "Other": "3",
+                                "Symbol": "6",
+                                "User": "3"
+                            },
+                            "RATIO": {
+                                "Hangul": "95",
+                                "Hanja": "95",
+                                "Japanese": "95",
+                                "Latin": "95",
+                                "Other": "95",
+                                "Symbol": "95",
+                                "User": "95"
+                            },
+                            "CHARSPACING": {
+                                "Hangul": "-4",
+                                "Hanja": "-4",
+                                "Japanese": "-4",
+                                "Latin": "-4",
+                                "Other": "-4",
+                                "Symbol": "-4",
+                                "User": "-4"
+                            },
+                            "RELSIZE": {
+                                "Hangul": "100",
+                                "Hanja": "100",
+                                "Japanese": "100",
+                                "Latin": "100",
+                                "Other": "100",
+                                "Symbol": "100",
+                                "User": "100"
+                            },
+                            "CHAROFFSET": {
+                                "Hangul": "0",
+                                "Hanja": "0",
+                                "Japanese": "0",
+                                "Latin": "0",
+                                "Other": "0",
+                                "Symbol": "0",
+                                "User": "0"
+                            }
+                        },
+                        {
+                            "@BorderFillId": "2",
+                            "@Height": "1148",
+                            "@Id": "5",
+                            "@ShadeColor": "4294967295",
+                            "@SymMark": "0",
+                            "@TextColor": "0",
+                            "@UseFontSpace": "false",
+                            "@UseKerning": "false",
+                            "FONTID": {
+                                "Hangul": "4",
+                                "Hanja": "4",
+                                "Japanese": "6",
+                                "Latin": "6",
+                                "Other": "3",
+                                "Symbol": "6",
+                                "User": "3"
+                            },
+                            "RATIO": {
+                                "Hangul": "95",
+                                "Hanja": "95",
+                                "Japanese": "95",
+                                "Latin": "95",
+                                "Other": "95",
+                                "Symbol": "95",
+                                "User": "100"
+                            },
+                            "CHARSPACING": {
+                                "Hangul": "-3",
+                                "Hanja": "0",
+                                "Japanese": "0",
+                                "Latin": "-3",
+                                "Other": "0",
+                                "Symbol": "0",
+                                "User": "0"
+                            },
+                            "RELSIZE": {
+                                "Hangul": "100",
+                                "Hanja": "100",
+                                "Japanese": "100",
+                                "Latin": "100",
+                                "Other": "100",
+                                "Symbol": "100",
+                                "User": "100"
+                            },
+                            "CHAROFFSET": {
+                                "Hangul": "0",
+                                "Hanja": "0",
+                                "Japanese": "0",
+                                "Latin": "0",
+                                "Other": "0",
+                                "Symbol": "0",
+                                "User": "0"
+                            }
+                        },
+                        {
+                            "@BorderFillId": "2",
+                            "@Height": "1150",
+                            "@Id": "6",
+                            "@ShadeColor": "4294967295",
+                            "@SymMark": "0",
+                            "@TextColor": "0",
+                            "@UseFontSpace": "false",
+                            "@UseKerning": "false",
+                            "FONTID": {
+                                "Hangul": "5",
+                                "Hanja": "5",
+                                "Japanese": "3",
+                                "Latin": "2",
+                                "Other": "3",
+                                "Symbol": "5",
+                                "User": "3"
+                            },
+                            "RATIO": {
+                                "Hangul": "87",
+                                "Hanja": "87",
+                                "Japanese": "92",
+                                "Latin": "95",
+                                "Other": "92",
+                                "Symbol": "92",
+                                "User": "92"
+                            },
+                            "CHARSPACING": {
+                                "Hangul": "-3",
+                                "Hanja": "-3",
+                                "Japanese": "-4",
+                                "Latin": "-5",
+                                "Other": "-4",
+                                "Symbol": "-4",
+                                "User": "-4"
+                            },
+                            "RELSIZE": {
+                                "Hangul": "100",
+                                "Hanja": "100",
+                                "Japanese": "100",
+                                "Latin": "100",
+                                "Other": "100",
+                                "Symbol": "100",
+                                "User": "100"
+                            },
+                            "CHAROFFSET": {
+                                "Hangul": "0",
+                                "Hanja": "0",
+                                "Japanese": "0",
+                                "Latin": "0",
+                                "Other": "0",
+                                "Symbol": "0",
+                                "User": "0"
+                            }
+                        },
+                        {
+                            "@BorderFillId": "1",
+                            "@Height": "1148",
+                            "@Id": "7",
+                            "@ShadeColor": "4294967295",
+                            "@SymMark": "0",
+                            "@TextColor": "0",
+                            "@UseFontSpace": "false",
+                            "@UseKerning": "false",
+                            "FONTID": {
+                                "Hangul": "4",
+                                "Hanja": "4",
+                                "Japanese": "6",
+                                "Latin": "6",
+                                "Other": "3",
+                                "Symbol": "6",
+                                "User": "3"
+                            },
+                            "RATIO": {
+                                "Hangul": "95",
+                                "Hanja": "95",
+                                "Japanese": "100",
+                                "Latin": "95",
+                                "Other": "100",
+                                "Symbol": "95",
+                                "User": "100"
+                            },
+                            "CHARSPACING": {
+                                "Hangul": "-3",
+                                "Hanja": "0",
+                                "Japanese": "0",
+                                "Latin": "-3",
+                                "Other": "0",
+                                "Symbol": "0",
+                                "User": "0"
+                            },
+                            "RELSIZE": {
+                                "Hangul": "100",
+                                "Hanja": "100",
+                                "Japanese": "100",
+                                "Latin": "100",
+                                "Other": "100",
+                                "Symbol": "100",
+                                "User": "100"
+                            },
+                            "CHAROFFSET": {
+                                "Hangul": "0",
+                                "Hanja": "0",
+                                "Japanese": "0",
+                                "Latin": "0",
+                                "Other": "0",
+                                "Symbol": "0",
+                                "User": "0"
+                            }
+                        },
+                        {
+                            "@BorderFillId": "1",
+                            "@Height": "200",
+                            "@Id": "8",
+                            "@ShadeColor": "4294967295",
+                            "@SymMark": "0",
+                            "@TextColor": "0",
+                            "@UseFontSpace": "false",
+                            "@UseKerning": "false",
+                            "FONTID": {
+                                "Hangul": "4",
+                                "Hanja": "4",
+                                "Japanese": "6",
+                                "Latin": "6",
+                                "Other": "3",
+                                "Symbol": "6",
+                                "User": "3"
+                            },
+                            "RATIO": {
+                                "Hangul": "95",
+                                "Hanja": "95",
+                                "Japanese": "100",
+                                "Latin": "95",
+                                "Other": "100",
+                                "Symbol": "95",
+                                "User": "100"
+                            },
+                            "CHARSPACING": {
+                                "Hangul": "-3",
+                                "Hanja": "0",
+                                "Japanese": "0",
+                                "Latin": "-3",
+                                "Other": "0",
+                                "Symbol": "0",
+                                "User": "0"
+                            },
+                            "RELSIZE": {
+                                "Hangul": "100",
+                                "Hanja": "100",
+                                "Japanese": "100",
+                                "Latin": "100",
+                                "Other": "100",
+                                "Symbol": "100",
+                                "User": "100"
+                            },
+                            "CHAROFFSET": {
+                                "Hangul": "0",
+                                "Hanja": "0",
+                                "Japanese": "0",
+                                "Latin": "0",
+                                "Other": "0",
+                                "Symbol": "0",
+                                "User": "0"
+                            }
+                        },
+                        {
+                            "@BorderFillId": "1",
+                            "@Height": "600",
+                            "@Id": "9",
+                            "@ShadeColor": "4294967295",
+                            "@SymMark": "0",
+                            "@TextColor": "0",
+                            "@UseFontSpace": "false",
+                            "@UseKerning": "false",
+                            "FONTID": {
+                                "Hangul": "4",
+                                "Hanja": "4",
+                                "Japanese": "6",
+                                "Latin": "6",
+                                "Other": "3",
+                                "Symbol": "6",
+                                "User": "3"
+                            },
+                            "RATIO": {
+                                "Hangul": "95",
+                                "Hanja": "95",
+                                "Japanese": "100",
+                                "Latin": "95",
+                                "Other": "100",
+                                "Symbol": "95",
+                                "User": "100"
+                            },
+                            "CHARSPACING": {
+                                "Hangul": "-3",
+                                "Hanja": "0",
+                                "Japanese": "0",
+                                "Latin": "-3",
+                                "Other": "0",
+                                "Symbol": "0",
+                                "User": "0"
+                            },
+                            "RELSIZE": {
+                                "Hangul": "100",
+                                "Hanja": "100",
+                                "Japanese": "100",
+                                "Latin": "100",
+                                "Other": "100",
+                                "Symbol": "100",
+                                "User": "100"
+                            },
+                            "CHAROFFSET": {
+                                "Hangul": "0",
+                                "Hanja": "0",
+                                "Japanese": "0",
+                                "Latin": "0",
+                                "Other": "0",
+                                "Symbol": "0",
+                                "User": "0"
+                            }
+                        },
+                        {
+                            "@BorderFillId": "1",
+                            "@Height": "600",
+                            "@Id": "10",
+                            "@ShadeColor": "4294967295",
+                            "@SymMark": "0",
+                            "@TextColor": "0",
+                            "@UseFontSpace": "false",
+                            "@UseKerning": "false",
+                            "FONTID": {
+                                "Hangul": "2",
+                                "Hanja": "4",
+                                "Japanese": "6",
+                                "Latin": "6",
+                                "Other": "3",
+                                "Symbol": "6",
+                                "User": "3"
+                            },
+                            "RATIO": {
+                                "Hangul": "95",
+                                "Hanja": "95",
+                                "Japanese": "100",
+                                "Latin": "95",
+                                "Other": "100",
+                                "Symbol": "95",
+                                "User": "100"
+                            },
+                            "CHARSPACING": {
+                                "Hangul": "-3",
+                                "Hanja": "0",
+                                "Japanese": "0",
+                                "Latin": "-3",
+                                "Other": "0",
+                                "Symbol": "0",
+                                "User": "0"
+                            },
+                            "RELSIZE": {
+                                "Hangul": "100",
+                                "Hanja": "100",
+                                "Japanese": "100",
+                                "Latin": "100",
+                                "Other": "100",
+                                "Symbol": "100",
+                                "User": "100"
+                            },
+                            "CHAROFFSET": {
+                                "Hangul": "0",
+                                "Hanja": "0",
+                                "Japanese": "0",
+                                "Latin": "0",
+                                "Other": "0",
+                                "Symbol": "0",
+                                "User": "0"
+                            }
+                        },
+                        {
+                            "@BorderFillId": "2",
+                            "@Height": "1148",
+                            "@Id": "11",
+                            "@ShadeColor": "4294967295",
+                            "@SymMark": "0",
+                            "@TextColor": "0",
+                            "@UseFontSpace": "false",
+                            "@UseKerning": "false",
+                            "FONTID": {
+                                "Hangul": "4",
+                                "Hanja": "4",
+                                "Japanese": "4",
+                                "Latin": "6",
+                                "Other": "3",
+                                "Symbol": "6",
+                                "User": "3"
+                            },
+                            "RATIO": {
+                                "Hangul": "95",
+                                "Hanja": "95",
+                                "Japanese": "100",
+                                "Latin": "95",
+                                "Other": "100",
+                                "Symbol": "100",
+                                "User": "100"
+                            },
+                            "CHARSPACING": {
+                                "Hangul": "-3",
+                                "Hanja": "0",
+                                "Japanese": "0",
+                                "Latin": "-3",
+                                "Other": "0",
+                                "Symbol": "0",
+                                "User": "0"
+                            },
+                            "RELSIZE": {
+                                "Hangul": "100",
+                                "Hanja": "100",
+                                "Japanese": "100",
+                                "Latin": "100",
+                                "Other": "100",
+                                "Symbol": "100",
+                                "User": "100"
+                            },
+                            "CHAROFFSET": {
+                                "Hangul": "0",
+                                "Hanja": "0",
+                                "Japanese": "0",
+                                "Latin": "0",
+                                "Other": "0",
+                                "Symbol": "0",
+                                "User": "0"
+                            }
+                        },
+                        {
+                            "@BorderFillId": "2",
+                            "@Height": "1148",
+                            "@Id": "12",
+                            "@ShadeColor": "4294967295",
+                            "@SymMark": "0",
+                            "@TextColor": "0",
+                            "@UseFontSpace": "false",
+                            "@UseKerning": "false",
+                            "FONTID": {
+                                "Hangul": "4",
+                                "Hanja": "4",
+                                "Japanese": "6",
+                                "Latin": "6",
+                                "Other": "3",
+                                "Symbol": "6",
+                                "User": "3"
+                            },
+                            "RATIO": {
+                                "Hangul": "95",
+                                "Hanja": "95",
+                                "Japanese": "100",
+                                "Latin": "95",
+                                "Other": "100",
+                                "Symbol": "95",
+                                "User": "100"
+                            },
+                            "CHARSPACING": {
+                                "Hangul": "-3",
+                                "Hanja": "0",
+                                "Japanese": "0",
+                                "Latin": "-3",
+                                "Other": "0",
+                                "Symbol": "0",
+                                "User": "0"
+                            },
+                            "RELSIZE": {
+                                "Hangul": "100",
+                                "Hanja": "100",
+                                "Japanese": "100",
+                                "Latin": "100",
+                                "Other": "100",
+                                "Symbol": "100",
+                                "User": "100"
+                            },
+                            "CHAROFFSET": {
+                                "Hangul": "0",
+                                "Hanja": "0",
+                                "Japanese": "0",
+                                "Latin": "0",
+                                "Other": "0",
+                                "Symbol": "0",
+                                "User": "0"
+                            }
+                        },
+                        {
+                            "@BorderFillId": "2",
+                            "@Height": "1148",
+                            "@Id": "13",
+                            "@ShadeColor": "4294967295",
+                            "@SymMark": "0",
+                            "@TextColor": "0",
+                            "@UseFontSpace": "true",
+                            "@UseKerning": "true",
+                            "FONTID": {
+                                "Hangul": "1",
+                                "Hanja": "1",
+                                "Japanese": "1",
+                                "Latin": "1",
+                                "Other": "1",
+                                "Symbol": "1",
+                                "User": "1"
+                            },
+                            "RATIO": {
+                                "Hangul": "95",
+                                "Hanja": "95",
+                                "Japanese": "95",
+                                "Latin": "95",
+                                "Other": "95",
+                                "Symbol": "95",
+                                "User": "95"
+                            },
+                            "CHARSPACING": {
+                                "Hangul": "-3",
+                                "Hanja": "-3",
+                                "Japanese": "-3",
+                                "Latin": "-3",
+                                "Other": "-3",
+                                "Symbol": "-3",
+                                "User": "-3"
+                            },
+                            "RELSIZE": {
+                                "Hangul": "100",
+                                "Hanja": "100",
+                                "Japanese": "100",
+                                "Latin": "100",
+                                "Other": "100",
+                                "Symbol": "100",
+                                "User": "100"
+                            },
+                            "CHAROFFSET": {
+                                "Hangul": "0",
+                                "Hanja": "0",
+                                "Japanese": "0",
+                                "Latin": "0",
+                                "Other": "0",
+                                "Symbol": "0",
+                                "User": "0"
+                            }
+                        },
+                        {
+                            "@BorderFillId": "2",
+                            "@Height": "1148",
+                            "@Id": "14",
+                            "@ShadeColor": "4294967295",
+                            "@SymMark": "0",
+                            "@TextColor": "0",
+                            "@UseFontSpace": "false",
+                            "@UseKerning": "false",
+                            "FONTID": {
+                                "Hangul": "1",
+                                "Hanja": "1",
+                                "Japanese": "1",
+                                "Latin": "1",
+                                "Other": "1",
+                                "Symbol": "1",
+                                "User": "1"
+                            },
+                            "RATIO": {
+                                "Hangul": "95",
+                                "Hanja": "95",
+                                "Japanese": "95",
+                                "Latin": "95",
+                                "Other": "95",
+                                "Symbol": "95",
+                                "User": "95"
+                            },
+                            "CHARSPACING": {
+                                "Hangul": "-3",
+                                "Hanja": "-3",
+                                "Japanese": "-3",
+                                "Latin": "-3",
+                                "Other": "-3",
+                                "Symbol": "-3",
+                                "User": "-3"
+                            },
+                            "RELSIZE": {
+                                "Hangul": "100",
+                                "Hanja": "100",
+                                "Japanese": "100",
+                                "Latin": "100",
+                                "Other": "100",
+                                "Symbol": "100",
+                                "User": "100"
+                            },
+                            "CHAROFFSET": {
+                                "Hangul": "0",
+                                "Hanja": "0",
+                                "Japanese": "0",
+                                "Latin": "0",
+                                "Other": "0",
+                                "Symbol": "0",
+                                "User": "0"
+                            }
+                        },
+                        {
+                            "@BorderFillId": "2",
+                            "@Height": "1150",
+                            "@Id": "15",
+                            "@ShadeColor": "4294967295",
+                            "@SymMark": "0",
+                            "@TextColor": "0",
+                            "@UseFontSpace": "false",
+                            "@UseKerning": "false",
+                            "FONTID": {
+                                "Hangul": "4",
+                                "Hanja": "2",
+                                "Japanese": "2",
+                                "Latin": "2",
+                                "Other": "2",
+                                "Symbol": "3",
+                                "User": "2"
+                            },
+                            "RATIO": {
+                                "Hangul": "95",
+                                "Hanja": "95",
+                                "Japanese": "95",
+                                "Latin": "95",
+                                "Other": "95",
+                                "Symbol": "95",
+                                "User": "95"
+                            },
+                            "CHARSPACING": {
+                                "Hangul": "-13",
+                                "Hanja": "-13",
+                                "Japanese": "-13",
+                                "Latin": "-13",
+                                "Other": "-13",
+                                "Symbol": "-13",
+                                "User": "-13"
+                            },
+                            "RELSIZE": {
+                                "Hangul": "100",
+                                "Hanja": "100",
+                                "Japanese": "100",
+                                "Latin": "100",
+                                "Other": "100",
+                                "Symbol": "100",
+                                "User": "100"
+                            },
+                            "CHAROFFSET": {
+                                "Hangul": "0",
+                                "Hanja": "0",
+                                "Japanese": "0",
+                                "Latin": "0",
+                                "Other": "0",
+                                "Symbol": "0",
+                                "User": "0"
+                            }
+                        },
+                        {
+                            "@BorderFillId": "2",
+                            "@Height": "1150",
+                            "@Id": "16",
+                            "@ShadeColor": "4294967295",
+                            "@SymMark": "0",
+                            "@TextColor": "0",
+                            "@UseFontSpace": "false",
+                            "@UseKerning": "false",
+                            "FONTID": {
+                                "Hangul": "4",
+                                "Hanja": "4",
+                                "Japanese": "4",
+                                "Latin": "5",
+                                "Other": "3",
+                                "Symbol": "6",
+                                "User": "3"
+                            },
+                            "RATIO": {
+                                "Hangul": "95",
+                                "Hanja": "95",
+                                "Japanese": "95",
+                                "Latin": "95",
+                                "Other": "95",
+                                "Symbol": "95",
+                                "User": "95"
+                            },
+                            "CHARSPACING": {
+                                "Hangul": "-7",
+                                "Hanja": "-7",
+                                "Japanese": "-7",
+                                "Latin": "-7",
+                                "Other": "-7",
+                                "Symbol": "-7",
+                                "User": "-7"
+                            },
+                            "RELSIZE": {
+                                "Hangul": "100",
+                                "Hanja": "100",
+                                "Japanese": "100",
+                                "Latin": "100",
+                                "Other": "100",
+                                "Symbol": "100",
+                                "User": "100"
+                            },
+                            "CHAROFFSET": {
+                                "Hangul": "-10",
+                                "Hanja": "-10",
+                                "Japanese": "-10",
+                                "Latin": "-10",
+                                "Other": "-10",
+                                "Symbol": "-10",
+                                "User": "-10"
+                            }
+                        },
+                        {
+                            "@BorderFillId": "2",
+                            "@Height": "900",
+                            "@Id": "17",
+                            "@ShadeColor": "4294967295",
+                            "@SymMark": "0",
+                            "@TextColor": "0",
+                            "@UseFontSpace": "false",
+                            "@UseKerning": "false",
+                            "FONTID": {
+                                "Hangul": "3",
+                                "Hanja": "3",
+                                "Japanese": "5",
+                                "Latin": "2",
+                                "Other": "3",
+                                "Symbol": "4",
+                                "User": "3"
+                            },
+                            "RATIO": {
+                                "Hangul": "95",
+                                "Hanja": "95",
+                                "Japanese": "95",
+                                "Latin": "95",
+                                "Other": "95",
+                                "Symbol": "95",
+                                "User": "95"
+                            },
+                            "CHARSPACING": {
+                                "Hangul": "-5",
+                                "Hanja": "-5",
+                                "Japanese": "-5",
+                                "Latin": "-5",
+                                "Other": "-5",
+                                "Symbol": "-5",
+                                "User": "-5"
+                            },
+                            "RELSIZE": {
+                                "Hangul": "100",
+                                "Hanja": "100",
+                                "Japanese": "100",
+                                "Latin": "100",
+                                "Other": "100",
+                                "Symbol": "100",
+                                "User": "100"
+                            },
+                            "CHAROFFSET": {
+                                "Hangul": "0",
+                                "Hanja": "0",
+                                "Japanese": "0",
+                                "Latin": "0",
+                                "Other": "0",
+                                "Symbol": "0",
+                                "User": "0"
+                            }
+                        },
+                        {
+                            "@BorderFillId": "2",
+                            "@Height": "1100",
+                            "@Id": "18",
+                            "@ShadeColor": "4294967295",
+                            "@SymMark": "0",
+                            "@TextColor": "0",
+                            "@UseFontSpace": "false",
+                            "@UseKerning": "false",
+                            "FONTID": {
+                                "Hangul": "0",
+                                "Hanja": "0",
+                                "Japanese": "0",
+                                "Latin": "0",
+                                "Other": "0",
+                                "Symbol": "0",
+                                "User": "0"
+                            },
+                            "RATIO": {
+                                "Hangul": "95",
+                                "Hanja": "95",
+                                "Japanese": "100",
+                                "Latin": "95",
+                                "Other": "100",
+                                "Symbol": "95",
+                                "User": "100"
+                            },
+                            "CHARSPACING": {
+                                "Hangul": "-3",
+                                "Hanja": "0",
+                                "Japanese": "0",
+                                "Latin": "-3",
+                                "Other": "0",
+                                "Symbol": "0",
+                                "User": "0"
+                            },
+                            "RELSIZE": {
+                                "Hangul": "100",
+                                "Hanja": "100",
+                                "Japanese": "100",
+                                "Latin": "100",
+                                "Other": "100",
+                                "Symbol": "100",
+                                "User": "100"
+                            },
+                            "CHAROFFSET": {
+                                "Hangul": "0",
+                                "Hanja": "0",
+                                "Japanese": "0",
+                                "Latin": "0",
+                                "Other": "0",
+                                "Symbol": "0",
+                                "User": "0"
+                            }
+                        },
+                        {
+                            "@BorderFillId": "2",
+                            "@Height": "800",
+                            "@Id": "19",
+                            "@ShadeColor": "4294967295",
+                            "@SymMark": "0",
+                            "@TextColor": "0",
+                            "@UseFontSpace": "false",
+                            "@UseKerning": "false",
+                            "FONTID": {
+                                "Hangul": "0",
+                                "Hanja": "0",
+                                "Japanese": "0",
+                                "Latin": "0",
+                                "Other": "0",
+                                "Symbol": "0",
+                                "User": "0"
+                            },
+                            "RATIO": {
+                                "Hangul": "95",
+                                "Hanja": "95",
+                                "Japanese": "100",
+                                "Latin": "95",
+                                "Other": "100",
+                                "Symbol": "95",
+                                "User": "100"
+                            },
+                            "CHARSPACING": {
+                                "Hangul": "-3",
+                                "Hanja": "0",
+                                "Japanese": "0",
+                                "Latin": "-3",
+                                "Other": "0",
+                                "Symbol": "0",
+                                "User": "0"
+                            },
+                            "RELSIZE": {
+                                "Hangul": "100",
+                                "Hanja": "100",
+                                "Japanese": "100",
+                                "Latin": "100",
+                                "Other": "100",
+                                "Symbol": "100",
+                                "User": "100"
+                            },
+                            "CHAROFFSET": {
+                                "Hangul": "0",
+                                "Hanja": "0",
+                                "Japanese": "0",
+                                "Latin": "0",
+                                "Other": "0",
+                                "Symbol": "0",
+                                "User": "0"
+                            }
+                        },
+                        {
+                            "@BorderFillId": "2",
+                            "@Height": "1150",
+                            "@Id": "20",
+                            "@ShadeColor": "4294967295",
+                            "@SymMark": "0",
+                            "@TextColor": "0",
+                            "@UseFontSpace": "false",
+                            "@UseKerning": "false",
+                            "FONTID": {
+                                "Hangul": "4",
+                                "Hanja": "4",
+                                "Japanese": "6",
+                                "Latin": "2",
+                                "Other": "3",
+                                "Symbol": "4",
+                                "User": "3"
+                            },
+                            "RATIO": {
+                                "Hangul": "95",
+                                "Hanja": "95",
+                                "Japanese": "95",
+                                "Latin": "95",
+                                "Other": "95",
+                                "Symbol": "95",
+                                "User": "100"
+                            },
+                            "CHARSPACING": {
+                                "Hangul": "-3",
+                                "Hanja": "0",
+                                "Japanese": "0",
+                                "Latin": "-3",
+                                "Other": "0",
+                                "Symbol": "0",
+                                "User": "0"
+                            },
+                            "RELSIZE": {
+                                "Hangul": "100",
+                                "Hanja": "100",
+                                "Japanese": "100",
+                                "Latin": "100",
+                                "Other": "100",
+                                "Symbol": "100",
+                                "User": "100"
+                            },
+                            "CHAROFFSET": {
+                                "Hangul": "0",
+                                "Hanja": "0",
+                                "Japanese": "0",
+                                "Latin": "0",
+                                "Other": "0",
+                                "Symbol": "0",
+                                "User": "0"
+                            }
+                        },
+                        {
+                            "@BorderFillId": "2",
+                            "@Height": "1150",
+                            "@Id": "21",
+                            "@ShadeColor": "4294967295",
+                            "@SymMark": "0",
+                            "@TextColor": "0",
+                            "@UseFontSpace": "false",
+                            "@UseKerning": "false",
+                            "FONTID": {
+                                "Hangul": "4",
+                                "Hanja": "4",
+                                "Japanese": "4",
+                                "Latin": "5",
+                                "Other": "3",
+                                "Symbol": "6",
+                                "User": "3"
+                            },
+                            "RATIO": {
+                                "Hangul": "95",
+                                "Hanja": "95",
+                                "Japanese": "95",
+                                "Latin": "95",
+                                "Other": "95",
+                                "Symbol": "95",
+                                "User": "95"
+                            },
+                            "CHARSPACING": {
+                                "Hangul": "5",
+                                "Hanja": "5",
+                                "Japanese": "5",
+                                "Latin": "5",
+                                "Other": "5",
+                                "Symbol": "5",
+                                "User": "5"
+                            },
+                            "RELSIZE": {
+                                "Hangul": "100",
+                                "Hanja": "100",
+                                "Japanese": "100",
+                                "Latin": "100",
+                                "Other": "100",
+                                "Symbol": "100",
+                                "User": "100"
+                            },
+                            "CHAROFFSET": {
+                                "Hangul": "0",
+                                "Hanja": "0",
+                                "Japanese": "0",
+                                "Latin": "0",
+                                "Other": "0",
+                                "Symbol": "0",
+                                "User": "0"
+                            }
+                        },
+                        {
+                            "@BorderFillId": "2",
+                            "@Height": "1000",
+                            "@Id": "22",
+                            "@ShadeColor": "4294967295",
+                            "@SymMark": "0",
+                            "@TextColor": "0",
+                            "@UseFontSpace": "false",
+                            "@UseKerning": "false",
+                            "FONTID": {
+                                "Hangul": "0",
+                                "Hanja": "0",
+                                "Japanese": "0",
+                                "Latin": "0",
+                                "Other": "0",
+                                "Symbol": "0",
+                                "User": "0"
+                            },
+                            "RATIO": {
+                                "Hangul": "95",
+                                "Hanja": "95",
+                                "Japanese": "100",
+                                "Latin": "95",
+                                "Other": "100",
+                                "Symbol": "95",
+                                "User": "100"
+                            },
+                            "CHARSPACING": {
+                                "Hangul": "-3",
+                                "Hanja": "0",
+                                "Japanese": "0",
+                                "Latin": "-3",
+                                "Other": "0",
+                                "Symbol": "0",
+                                "User": "0"
+                            },
+                            "RELSIZE": {
+                                "Hangul": "100",
+                                "Hanja": "100",
+                                "Japanese": "100",
+                                "Latin": "100",
+                                "Other": "100",
+                                "Symbol": "100",
+                                "User": "100"
+                            },
+                            "CHAROFFSET": {
+                                "Hangul": "0",
+                                "Hanja": "0",
+                                "Japanese": "0",
+                                "Latin": "0",
+                                "Other": "0",
+                                "Symbol": "0",
+                                "User": "0"
+                            }
+                        },
+                        {
+                            "@BorderFillId": "2",
+                            "@Height": "1150",
+                            "@Id": "23",
+                            "@ShadeColor": "4294967295",
+                            "@SymMark": "0",
+                            "@TextColor": "0",
+                            "@UseFontSpace": "false",
+                            "@UseKerning": "false",
+                            "FONTID": {
+                                "Hangul": "4",
+                                "Hanja": "4",
+                                "Japanese": "4",
+                                "Latin": "2",
+                                "Other": "3",
+                                "Symbol": "6",
+                                "User": "3"
+                            },
+                            "RATIO": {
+                                "Hangul": "95",
+                                "Hanja": "95",
+                                "Japanese": "95",
+                                "Latin": "95",
+                                "Other": "95",
+                                "Symbol": "95",
+                                "User": "95"
+                            },
+                            "CHARSPACING": {
+                                "Hangul": "-4",
+                                "Hanja": "-4",
+                                "Japanese": "-4",
+                                "Latin": "-4",
+                                "Other": "-4",
+                                "Symbol": "-4",
+                                "User": "-4"
+                            },
+                            "RELSIZE": {
+                                "Hangul": "100",
+                                "Hanja": "100",
+                                "Japanese": "100",
+                                "Latin": "100",
+                                "Other": "100",
+                                "Symbol": "100",
+                                "User": "100"
+                            },
+                            "CHAROFFSET": {
+                                "Hangul": "0",
+                                "Hanja": "0",
+                                "Japanese": "0",
+                                "Latin": "0",
+                                "Other": "0",
+                                "Symbol": "0",
+                                "User": "0"
+                            }
+                        },
+                        {
+                            "@BorderFillId": "2",
+                            "@Height": "1150",
+                            "@Id": "24",
+                            "@ShadeColor": "4294967295",
+                            "@SymMark": "0",
+                            "@TextColor": "0",
+                            "@UseFontSpace": "false",
+                            "@UseKerning": "false",
+                            "FONTID": {
+                                "Hangul": "4",
+                                "Hanja": "4",
+                                "Japanese": "4",
+                                "Latin": "5",
+                                "Other": "3",
+                                "Symbol": "3",
+                                "User": "3"
+                            },
+                            "RATIO": {
+                                "Hangul": "95",
+                                "Hanja": "95",
+                                "Japanese": "95",
+                                "Latin": "95",
+                                "Other": "95",
+                                "Symbol": "95",
+                                "User": "95"
+                            },
+                            "CHARSPACING": {
+                                "Hangul": "-4",
+                                "Hanja": "-4",
+                                "Japanese": "-4",
+                                "Latin": "-4",
+                                "Other": "-4",
+                                "Symbol": "-4",
+                                "User": "-4"
+                            },
+                            "RELSIZE": {
+                                "Hangul": "100",
+                                "Hanja": "100",
+                                "Japanese": "100",
+                                "Latin": "100",
+                                "Other": "100",
+                                "Symbol": "100",
+                                "User": "100"
+                            },
+                            "CHAROFFSET": {
+                                "Hangul": "0",
+                                "Hanja": "0",
+                                "Japanese": "0",
+                                "Latin": "0",
+                                "Other": "0",
+                                "Symbol": "0",
+                                "User": "0"
+                            }
+                        },
+                        {
+                            "@BorderFillId": "2",
+                            "@Height": "1150",
+                            "@Id": "25",
+                            "@ShadeColor": "4294967295",
+                            "@SymMark": "0",
+                            "@TextColor": "0",
+                            "@UseFontSpace": "false",
+                            "@UseKerning": "false",
+                            "FONTID": {
+                                "Hangul": "4",
+                                "Hanja": "4",
+                                "Japanese": "4",
+                                "Latin": "5",
+                                "Other": "3",
+                                "Symbol": "3",
+                                "User": "3"
+                            },
+                            "RATIO": {
+                                "Hangul": "95",
+                                "Hanja": "95",
+                                "Japanese": "95",
+                                "Latin": "95",
+                                "Other": "95",
+                                "Symbol": "95",
+                                "User": "95"
+                            },
+                            "CHARSPACING": {
+                                "Hangul": "-3",
+                                "Hanja": "-3",
+                                "Japanese": "-3",
+                                "Latin": "-3",
+                                "Other": "-3",
+                                "Symbol": "-3",
+                                "User": "-3"
+                            },
+                            "RELSIZE": {
+                                "Hangul": "100",
+                                "Hanja": "100",
+                                "Japanese": "100",
+                                "Latin": "100",
+                                "Other": "100",
+                                "Symbol": "100",
+                                "User": "100"
+                            },
+                            "CHAROFFSET": {
+                                "Hangul": "0",
+                                "Hanja": "0",
+                                "Japanese": "0",
+                                "Latin": "0",
+                                "Other": "0",
+                                "Symbol": "0",
+                                "User": "0"
+                            }
+                        },
+                        {
+                            "@BorderFillId": "2",
+                            "@Height": "1150",
+                            "@Id": "26",
+                            "@ShadeColor": "4294967295",
+                            "@SymMark": "0",
+                            "@TextColor": "0",
+                            "@UseFontSpace": "false",
+                            "@UseKerning": "false",
+                            "FONTID": {
+                                "Hangul": "4",
+                                "Hanja": "2",
+                                "Japanese": "2",
+                                "Latin": "2",
+                                "Other": "2",
+                                "Symbol": "3",
+                                "User": "2"
+                            },
+                            "RATIO": {
+                                "Hangul": "95",
+                                "Hanja": "95",
+                                "Japanese": "95",
+                                "Latin": "95",
+                                "Other": "95",
+                                "Symbol": "95",
+                                "User": "95"
+                            },
+                            "CHARSPACING": {
+                                "Hangul": "-4",
+                                "Hanja": "-4",
+                                "Japanese": "-4",
+                                "Latin": "-4",
+                                "Other": "-4",
+                                "Symbol": "-4",
+                                "User": "-4"
+                            },
+                            "RELSIZE": {
+                                "Hangul": "100",
+                                "Hanja": "100",
+                                "Japanese": "100",
+                                "Latin": "100",
+                                "Other": "100",
+                                "Symbol": "100",
+                                "User": "100"
+                            },
+                            "CHAROFFSET": {
+                                "Hangul": "0",
+                                "Hanja": "0",
+                                "Japanese": "0",
+                                "Latin": "0",
+                                "Other": "0",
+                                "Symbol": "0",
+                                "User": "0"
+                            }
+                        },
+                        {
+                            "@BorderFillId": "2",
+                            "@Height": "1150",
+                            "@Id": "27",
+                            "@ShadeColor": "4294967295",
+                            "@SymMark": "0",
+                            "@TextColor": "0",
+                            "@UseFontSpace": "false",
+                            "@UseKerning": "false",
+                            "FONTID": {
+                                "Hangul": "4",
+                                "Hanja": "4",
+                                "Japanese": "4",
+                                "Latin": "5",
+                                "Other": "3",
+                                "Symbol": "3",
+                                "User": "3"
+                            },
+                            "RATIO": {
+                                "Hangul": "95",
+                                "Hanja": "95",
+                                "Japanese": "95",
+                                "Latin": "95",
+                                "Other": "95",
+                                "Symbol": "95",
+                                "User": "95"
+                            },
+                            "CHARSPACING": {
+                                "Hangul": "-4",
+                                "Hanja": "-4",
+                                "Japanese": "-3",
+                                "Latin": "-4",
+                                "Other": "-3",
+                                "Symbol": "-3",
+                                "User": "-3"
+                            },
+                            "RELSIZE": {
+                                "Hangul": "100",
+                                "Hanja": "100",
+                                "Japanese": "100",
+                                "Latin": "100",
+                                "Other": "100",
+                                "Symbol": "100",
+                                "User": "100"
+                            },
+                            "CHAROFFSET": {
+                                "Hangul": "0",
+                                "Hanja": "0",
+                                "Japanese": "0",
+                                "Latin": "0",
+                                "Other": "0",
+                                "Symbol": "0",
+                                "User": "0"
+                            }
+                        }
+                    ],
+                    "Count": "28"
+                },
+                "TABDEFLIST": {
+                    "TABDEF": [
+                        {
+                            "@AutoTabLeft": "false",
+                            "@AutoTabRight": "false",
+                            "@Id": "1"
+                        },
+                        {
+                            "@AutoTabLeft": "false",
+                            "@AutoTabRight": "false",
+                            "@Id": "2"
+                        },
+                        {
+                            "@AutoTabLeft": "false",
+                            "@AutoTabRight": "false",
+                            "@Id": "3"
+                        },
+                        {
+                            "@AutoTabLeft": "false",
+                            "@AutoTabRight": "false",
+                            "@Id": "4",
+                            "TABITEM": {
+                                "Leader": "None",
+                                "Pos": "32912",
+                                "Type": "Left"
+                            }
+                        },
+                        {
+                            "@AutoTabLeft": "false",
+                            "@AutoTabRight": "false",
+                            "@Id": "5"
+                        },
+                        {
+                            "@AutoTabLeft": "false",
+                            "@AutoTabRight": "false",
+                            "@Id": "6"
+                        },
+                        {
+                            "@AutoTabLeft": "false",
+                            "@AutoTabRight": "false",
+                            "@Id": "7",
+                            "TABITEM": {
+                                "Leader": "None",
+                                "Pos": "32020",
+                                "Type": "Left"
+                            }
+                        },
+                        {
+                            "@AutoTabLeft": "false",
+                            "@AutoTabRight": "false",
+                            "@Id": "8"
+                        },
+                        {
+                            "@AutoTabLeft": "false",
+                            "@AutoTabRight": "false",
+                            "@Id": "9"
+                        }
+                    ],
+                    "Count": "10"
+                },
+                "PARASHAPELIST": {
+                    "PARASHAPE": [
+                        {
+                            "@Align": "Justify",
+                            "@AutoSpaceEAsianEng": "true",
+                            "@AutoSpaceEAsianNum": "true",
+                            "@BreakLatinWord": "KeepWord",
+                            "@BreakNonLatinWord": "true",
+                            "@Condense": "0",
+                            "@FontLineHeight": "false",
+                            "@HeadingType": "None",
+                            "@Id": "0",
+                            "@KeepLines": "false",
+                            "@KeepWithNext": "false",
+                            "@Level": "0",
+                            "@LineWrap": "Break",
+                            "@PageBreakBefore": "false",
+                            "@SnapToGrid": "false",
+                            "@TabDef": "2",
+                            "@VerAlign": "Baseline",
+                            "@WidowOrphan": "false",
+                            "PARAMARGIN": {
+                                "Indent": "2280",
+                                "Left": "2220",
+                                "LineSpacing": "143",
+                                "LineSpacingType": "Percent",
+                                "Next": "1160",
+                                "Prev": "0",
+                                "Right": "0"
+                            },
+                            "PARABORDER": {
+                                "BorderFill": "2",
+                                "Connect": "false",
+                                "IgnoreMargin": "false"
+                            }
+                        },
+                        {
+                            "@Align": "Justify",
+                            "@AutoSpaceEAsianEng": "false",
+                            "@AutoSpaceEAsianNum": "false",
+                            "@BreakLatinWord": "KeepWord",
+                            "@BreakNonLatinWord": "true",
+                            "@Condense": "0",
+                            "@FontLineHeight": "false",
+                            "@HeadingType": "None",
+                            "@Id": "1",
+                            "@KeepLines": "false",
+                            "@KeepWithNext": "false",
+                            "@Level": "0",
+                            "@LineWrap": "Break",
+                            "@PageBreakBefore": "false",
+                            "@SnapToGrid": "false",
+                            "@TabDef": "0",
+                            "@VerAlign": "Baseline",
+                            "@WidowOrphan": "false",
+                            "PARAMARGIN": {
+                                "Indent": "0",
+                                "Left": "0",
+                                "LineSpacing": "10",
+                                "LineSpacingType": "Percent",
+                                "Next": "0",
+                                "Prev": "0",
+                                "Right": "0"
+                            },
+                            "PARABORDER": {
+                                "BorderFill": "2",
+                                "Connect": "false",
+                                "IgnoreMargin": "false"
+                            }
+                        },
+                        {
+                            "@Align": "Center",
+                            "@AutoSpaceEAsianEng": "true",
+                            "@AutoSpaceEAsianNum": "true",
+                            "@BreakLatinWord": "KeepWord",
+                            "@BreakNonLatinWord": "false",
+                            "@Condense": "0",
+                            "@FontLineHeight": "false",
+                            "@HeadingType": "None",
+                            "@Id": "2",
+                            "@KeepLines": "false",
+                            "@KeepWithNext": "false",
+                            "@Level": "0",
+                            "@LineWrap": "Break",
+                            "@PageBreakBefore": "false",
+                            "@SnapToGrid": "false",
+                            "@TabDef": "0",
+                            "@VerAlign": "Baseline",
+                            "@WidowOrphan": "false",
+                            "PARAMARGIN": {
+                                "Indent": "0",
+                                "Left": "2260",
+                                "LineSpacing": "143",
+                                "LineSpacingType": "Percent",
+                                "Next": "1140",
+                                "Prev": "0",
+                                "Right": "0"
+                            },
+                            "PARABORDER": {
+                                "BorderFill": "2",
+                                "Connect": "false",
+                                "IgnoreMargin": "false"
+                            }
+                        },
+                        {
+                            "@Align": "Justify",
+                            "@AutoSpaceEAsianEng": "false",
+                            "@AutoSpaceEAsianNum": "false",
+                            "@BreakLatinWord": "KeepWord",
+                            "@BreakNonLatinWord": "true",
+                            "@Condense": "0",
+                            "@FontLineHeight": "false",
+                            "@HeadingType": "None",
+                            "@Id": "3",
+                            "@KeepLines": "false",
+                            "@KeepWithNext": "false",
+                            "@Level": "0",
+                            "@LineWrap": "Break",
+                            "@PageBreakBefore": "false",
+                            "@SnapToGrid": "false",
+                            "@TabDef": "0",
+                            "@VerAlign": "Baseline",
+                            "@WidowOrphan": "false",
+                            "PARAMARGIN": {
+                                "Indent": "0",
+                                "Left": "0",
+                                "LineSpacing": "140",
+                                "LineSpacingType": "Percent",
+                                "Next": "0",
+                                "Prev": "0",
+                                "Right": "0"
+                            },
+                            "PARABORDER": {
+                                "BorderFill": "2",
+                                "Connect": "false",
+                                "IgnoreMargin": "false"
+                            }
+                        },
+                        {
+                            "@Align": "Justify",
+                            "@AutoSpaceEAsianEng": "false",
+                            "@AutoSpaceEAsianNum": "false",
+                            "@BreakLatinWord": "KeepWord",
+                            "@BreakNonLatinWord": "true",
+                            "@Condense": "0",
+                            "@FontLineHeight": "false",
+                            "@HeadingType": "None",
+                            "@Id": "4",
+                            "@KeepLines": "false",
+                            "@KeepWithNext": "false",
+                            "@Level": "0",
+                            "@LineWrap": "Break",
+                            "@PageBreakBefore": "false",
+                            "@SnapToGrid": "false",
+                            "@TabDef": "0",
+                            "@VerAlign": "Baseline",
+                            "@WidowOrphan": "false",
+                            "PARAMARGIN": {
+                                "Indent": "0",
+                                "Left": "0",
+                                "LineSpacing": "150",
+                                "LineSpacingType": "Percent",
+                                "Next": "0",
+                                "Prev": "0",
+                                "Right": "0"
+                            },
+                            "PARABORDER": {
+                                "BorderFill": "2",
+                                "Connect": "false",
+                                "IgnoreMargin": "false"
+                            }
+                        },
+                        {
+                            "@Align": "Justify",
+                            "@AutoSpaceEAsianEng": "false",
+                            "@AutoSpaceEAsianNum": "false",
+                            "@BreakLatinWord": "KeepWord",
+                            "@BreakNonLatinWord": "true",
+                            "@Condense": "0",
+                            "@FontLineHeight": "false",
+                            "@HeadingType": "None",
+                            "@Id": "5",
+                            "@KeepLines": "false",
+                            "@KeepWithNext": "false",
+                            "@Level": "0",
+                            "@LineWrap": "Break",
+                            "@PageBreakBefore": "false",
+                            "@SnapToGrid": "false",
+                            "@TabDef": "1",
+                            "@VerAlign": "Baseline",
+                            "@WidowOrphan": "false",
+                            "PARAMARGIN": {
+                                "Indent": "0",
+                                "Left": "2260",
+                                "LineSpacing": "143",
+                                "LineSpacingType": "Percent",
+                                "Next": "0",
+                                "Prev": "0",
+                                "Right": "0"
+                            },
+                            "PARABORDER": {
+                                "BorderFill": "2",
+                                "Connect": "false",
+                                "IgnoreMargin": "false"
+                            }
+                        },
+                        {
+                            "@Align": "Justify",
+                            "@AutoSpaceEAsianEng": "false",
+                            "@AutoSpaceEAsianNum": "false",
+                            "@BreakLatinWord": "KeepWord",
+                            "@BreakNonLatinWord": "true",
+                            "@Condense": "0",
+                            "@FontLineHeight": "false",
+                            "@HeadingType": "None",
+                            "@Id": "6",
+                            "@KeepLines": "false",
+                            "@KeepWithNext": "false",
+                            "@Level": "0",
+                            "@LineWrap": "Break",
+                            "@PageBreakBefore": "false",
+                            "@SnapToGrid": "false",
+                            "@TabDef": "5",
+                            "@VerAlign": "Baseline",
+                            "@WidowOrphan": "false",
+                            "PARAMARGIN": {
+                                "Indent": "0",
+                                "Left": "2260",
+                                "LineSpacing": "140",
+                                "LineSpacingType": "Percent",
+                                "Next": "0",
+                                "Prev": "0",
+                                "Right": "0"
+                            },
+                            "PARABORDER": {
+                                "BorderFill": "2",
+                                "Connect": "false",
+                                "IgnoreMargin": "false"
+                            }
+                        },
+                        {
+                            "@Align": "Justify",
+                            "@AutoSpaceEAsianEng": "true",
+                            "@AutoSpaceEAsianNum": "false",
+                            "@BreakLatinWord": "KeepWord",
+                            "@BreakNonLatinWord": "true",
+                            "@Condense": "0",
+                            "@FontLineHeight": "false",
+                            "@HeadingType": "None",
+                            "@Id": "7",
+                            "@KeepLines": "false",
+                            "@KeepWithNext": "false",
+                            "@Level": "0",
+                            "@LineWrap": "Break",
+                            "@PageBreakBefore": "false",
+                            "@SnapToGrid": "false",
+                            "@TabDef": "0",
+                            "@VerAlign": "Baseline",
+                            "@WidowOrphan": "false",
+                            "PARAMARGIN": {
+                                "Indent": "2200",
+                                "Left": "2260",
+                                "LineSpacing": "143",
+                                "LineSpacingType": "Percent",
+                                "Next": "1280",
+                                "Prev": "0",
+                                "Right": "0"
+                            },
+                            "PARABORDER": {
+                                "BorderFill": "2",
+                                "Connect": "false",
+                                "IgnoreMargin": "false"
+                            }
+                        },
+                        {
+                            "@Align": "Center",
+                            "@AutoSpaceEAsianEng": "false",
+                            "@AutoSpaceEAsianNum": "false",
+                            "@BreakLatinWord": "KeepWord",
+                            "@BreakNonLatinWord": "false",
+                            "@Condense": "0",
+                            "@FontLineHeight": "false",
+                            "@HeadingType": "None",
+                            "@Id": "8",
+                            "@KeepLines": "false",
+                            "@KeepWithNext": "false",
+                            "@Level": "0",
+                            "@LineWrap": "Break",
+                            "@PageBreakBefore": "false",
+                            "@SnapToGrid": "false",
+                            "@TabDef": "0",
+                            "@VerAlign": "Baseline",
+                            "@WidowOrphan": "false",
+                            "PARAMARGIN": {
+                                "Indent": "0",
+                                "Left": "0",
+                                "LineSpacing": "140",
+                                "LineSpacingType": "Percent",
+                                "Next": "2000",
+                                "Prev": "0",
+                                "Right": "0"
+                            },
+                            "PARABORDER": {
+                                "BorderFill": "2",
+                                "Connect": "false",
+                                "IgnoreMargin": "false"
+                            }
+                        },
+                        {
+                            "@Align": "Justify",
+                            "@AutoSpaceEAsianEng": "false",
+                            "@AutoSpaceEAsianNum": "false",
+                            "@BreakLatinWord": "KeepWord",
+                            "@BreakNonLatinWord": "true",
+                            "@Condense": "0",
+                            "@FontLineHeight": "false",
+                            "@HeadingType": "None",
+                            "@Id": "9",
+                            "@KeepLines": "false",
+                            "@KeepWithNext": "false",
+                            "@Level": "0",
+                            "@LineWrap": "Break",
+                            "@PageBreakBefore": "false",
+                            "@SnapToGrid": "false",
+                            "@TabDef": "8",
+                            "@VerAlign": "Baseline",
+                            "@WidowOrphan": "false",
+                            "PARAMARGIN": {
+                                "Indent": "0",
+                                "Left": "0",
+                                "LineSpacing": "140",
+                                "LineSpacingType": "Percent",
+                                "Next": "0",
+                                "Prev": "0",
+                                "Right": "0"
+                            },
+                            "PARABORDER": {
+                                "BorderFill": "2",
+                                "Connect": "false",
+                                "IgnoreMargin": "false"
+                            }
+                        },
+                        {
+                            "@Align": "Justify",
+                            "@AutoSpaceEAsianEng": "false",
+                            "@AutoSpaceEAsianNum": "false",
+                            "@BreakLatinWord": "KeepWord",
+                            "@BreakNonLatinWord": "true",
+                            "@Condense": "0",
+                            "@FontLineHeight": "false",
+                            "@HeadingType": "None",
+                            "@Id": "10",
+                            "@KeepLines": "false",
+                            "@KeepWithNext": "false",
+                            "@Level": "0",
+                            "@LineWrap": "Break",
+                            "@PageBreakBefore": "false",
+                            "@SnapToGrid": "false",
+                            "@TabDef": "6",
+                            "@VerAlign": "Baseline",
+                            "@WidowOrphan": "false",
+                            "PARAMARGIN": {
+                                "Indent": "0",
+                                "Left": "2000",
+                                "LineSpacing": "140",
+                                "LineSpacingType": "Percent",
+                                "Next": "0",
+                                "Prev": "0",
+                                "Right": "0"
+                            },
+                            "PARABORDER": {
+                                "BorderFill": "2",
+                                "Connect": "false",
+                                "IgnoreMargin": "false"
+                            }
+                        },
+                        {
+                            "@Align": "Justify",
+                            "@AutoSpaceEAsianEng": "false",
+                            "@AutoSpaceEAsianNum": "false",
+                            "@BreakLatinWord": "KeepWord",
+                            "@BreakNonLatinWord": "true",
+                            "@Condense": "0",
+                            "@FontLineHeight": "false",
+                            "@HeadingType": "None",
+                            "@Id": "11",
+                            "@KeepLines": "false",
+                            "@KeepWithNext": "false",
+                            "@Level": "0",
+                            "@LineWrap": "Break",
+                            "@PageBreakBefore": "false",
+                            "@SnapToGrid": "false",
+                            "@TabDef": "4",
+                            "@VerAlign": "Baseline",
+                            "@WidowOrphan": "false",
+                            "PARAMARGIN": {
+                                "Indent": "0",
+                                "Left": "0",
+                                "LineSpacing": "140",
+                                "LineSpacingType": "Percent",
+                                "Next": "0",
+                                "Prev": "0",
+                                "Right": "0"
+                            },
+                            "PARABORDER": {
+                                "BorderFill": "2",
+                                "Connect": "false",
+                                "IgnoreMargin": "false"
+                            }
+                        },
+                        {
+                            "@Align": "Center",
+                            "@AutoSpaceEAsianEng": "false",
+                            "@AutoSpaceEAsianNum": "false",
+                            "@BreakLatinWord": "KeepWord",
+                            "@BreakNonLatinWord": "false",
+                            "@Condense": "0",
+                            "@FontLineHeight": "false",
+                            "@HeadingType": "None",
+                            "@Id": "12",
+                            "@KeepLines": "false",
+                            "@KeepWithNext": "false",
+                            "@Level": "0",
+                            "@LineWrap": "Break",
+                            "@PageBreakBefore": "false",
+                            "@SnapToGrid": "false",
+                            "@TabDef": "0",
+                            "@VerAlign": "Baseline",
+                            "@WidowOrphan": "false",
+                            "PARAMARGIN": {
+                                "Indent": "0",
+                                "Left": "0",
+                                "LineSpacing": "120",
+                                "LineSpacingType": "Percent",
+                                "Next": "400",
+                                "Prev": "0",
+                                "Right": "0"
+                            },
+                            "PARABORDER": {
+                                "BorderFill": "2",
+                                "Connect": "false",
+                                "IgnoreMargin": "false"
+                            }
+                        },
+                        {
+                            "@Align": "Justify",
+                            "@AutoSpaceEAsianEng": "false",
+                            "@AutoSpaceEAsianNum": "false",
+                            "@BreakLatinWord": "KeepWord",
+                            "@BreakNonLatinWord": "true",
+                            "@Condense": "0",
+                            "@FontLineHeight": "false",
+                            "@HeadingType": "None",
+                            "@Id": "13",
+                            "@KeepLines": "false",
+                            "@KeepWithNext": "false",
+                            "@Level": "0",
+                            "@LineWrap": "Break",
+                            "@PageBreakBefore": "false",
+                            "@SnapToGrid": "false",
+                            "@TabDef": "3",
+                            "@VerAlign": "Baseline",
+                            "@WidowOrphan": "false",
+                            "PARAMARGIN": {
+                                "Indent": "0",
+                                "Left": "2260",
+                                "LineSpacing": "140",
+                                "LineSpacingType": "Percent",
+                                "Next": "1140",
+                                "Prev": "0",
+                                "Right": "0"
+                            },
+                            "PARABORDER": {
+                                "BorderFill": "2",
+                                "Connect": "false",
+                                "IgnoreMargin": "false"
+                            }
+                        },
+                        {
+                            "@Align": "Justify",
+                            "@AutoSpaceEAsianEng": "false",
+                            "@AutoSpaceEAsianNum": "false",
+                            "@BreakLatinWord": "KeepWord",
+                            "@BreakNonLatinWord": "true",
+                            "@Condense": "0",
+                            "@FontLineHeight": "false",
+                            "@HeadingType": "None",
+                            "@Id": "14",
+                            "@KeepLines": "false",
+                            "@KeepWithNext": "false",
+                            "@Level": "0",
+                            "@LineWrap": "Break",
+                            "@PageBreakBefore": "false",
+                            "@SnapToGrid": "false",
+                            "@TabDef": "0",
+                            "@VerAlign": "Baseline",
+                            "@WidowOrphan": "false",
+                            "PARAMARGIN": {
+                                "Indent": "0",
+                                "Left": "0",
+                                "LineSpacing": "143",
+                                "LineSpacingType": "Percent",
+                                "Next": "0",
+                                "Prev": "0",
+                                "Right": "0"
+                            },
+                            "PARABORDER": {
+                                "BorderFill": "2",
+                                "Connect": "false",
+                                "IgnoreMargin": "false"
+                            }
+                        },
+                        {
+                            "@Align": "Justify",
+                            "@AutoSpaceEAsianEng": "true",
+                            "@AutoSpaceEAsianNum": "true",
+                            "@BreakLatinWord": "KeepWord",
+                            "@BreakNonLatinWord": "true",
+                            "@Condense": "0",
+                            "@FontLineHeight": "false",
+                            "@HeadingType": "None",
+                            "@Id": "15",
+                            "@KeepLines": "false",
+                            "@KeepWithNext": "false",
+                            "@Level": "0",
+                            "@LineWrap": "Break",
+                            "@PageBreakBefore": "false",
+                            "@SnapToGrid": "false",
+                            "@TabDef": "0",
+                            "@VerAlign": "Baseline",
+                            "@WidowOrphan": "false",
+                            "PARAMARGIN": {
+                                "Indent": "0",
+                                "Left": "0",
+                                "LineSpacing": "143",
+                                "LineSpacingType": "Percent",
+                                "Next": "0",
+                                "Prev": "0",
+                                "Right": "0"
+                            },
+                            "PARABORDER": {
+                                "BorderFill": "2",
+                                "Connect": "false",
+                                "IgnoreMargin": "false"
+                            }
+                        },
+                        {
+                            "@Align": "Justify",
+                            "@AutoSpaceEAsianEng": "true",
+                            "@AutoSpaceEAsianNum": "true",
+                            "@BreakLatinWord": "KeepWord",
+                            "@BreakNonLatinWord": "true",
+                            "@Condense": "0",
+                            "@FontLineHeight": "false",
+                            "@HeadingType": "None",
+                            "@Id": "16",
+                            "@KeepLines": "false",
+                            "@KeepWithNext": "false",
+                            "@Level": "0",
+                            "@LineWrap": "Break",
+                            "@PageBreakBefore": "false",
+                            "@SnapToGrid": "false",
+                            "@TabDef": "0",
+                            "@VerAlign": "Baseline",
+                            "@WidowOrphan": "false",
+                            "PARAMARGIN": {
+                                "Indent": "0",
+                                "Left": "2260",
+                                "LineSpacing": "143",
+                                "LineSpacingType": "Percent",
+                                "Next": "1140",
+                                "Prev": "0",
+                                "Right": "0"
+                            },
+                            "PARABORDER": {
+                                "BorderFill": "2",
+                                "Connect": "false",
+                                "IgnoreMargin": "false"
+                            }
+                        },
+                        {
+                            "@Align": "Justify",
+                            "@AutoSpaceEAsianEng": "false",
+                            "@AutoSpaceEAsianNum": "false",
+                            "@BreakLatinWord": "KeepWord",
+                            "@BreakNonLatinWord": "true",
+                            "@Condense": "0",
+                            "@FontLineHeight": "false",
+                            "@HeadingType": "None",
+                            "@Id": "17",
+                            "@KeepLines": "false",
+                            "@KeepWithNext": "false",
+                            "@Level": "0",
+                            "@LineWrap": "Break",
+                            "@PageBreakBefore": "false",
+                            "@SnapToGrid": "false",
+                            "@TabDef": "0",
+                            "@VerAlign": "Baseline",
+                            "@WidowOrphan": "false",
+                            "PARAMARGIN": {
+                                "Indent": "0",
+                                "Left": "0",
+                                "LineSpacing": "143",
+                                "LineSpacingType": "Percent",
+                                "Next": "0",
+                                "Prev": "0",
+                                "Right": "0"
+                            },
+                            "PARABORDER": {
+                                "BorderFill": "1",
+                                "Connect": "false",
+                                "IgnoreMargin": "false"
+                            }
+                        },
+                        {
+                            "@Align": "Center",
+                            "@AutoSpaceEAsianEng": "false",
+                            "@AutoSpaceEAsianNum": "false",
+                            "@BreakLatinWord": "KeepWord",
+                            "@BreakNonLatinWord": "false",
+                            "@Condense": "0",
+                            "@FontLineHeight": "false",
+                            "@HeadingType": "None",
+                            "@Id": "18",
+                            "@KeepLines": "false",
+                            "@KeepWithNext": "false",
+                            "@Level": "0",
+                            "@LineWrap": "Break",
+                            "@PageBreakBefore": "false",
+                            "@SnapToGrid": "false",
+                            "@TabDef": "0",
+                            "@VerAlign": "Baseline",
+                            "@WidowOrphan": "false",
+                            "PARAMARGIN": {
+                                "Indent": "0",
+                                "Left": "0",
+                                "LineSpacing": "143",
+                                "LineSpacingType": "Percent",
+                                "Next": "0",
+                                "Prev": "0",
+                                "Right": "0"
+                            },
+                            "PARABORDER": {
+                                "BorderFill": "2",
+                                "Connect": "false",
+                                "IgnoreMargin": "false"
+                            }
+                        },
+                        {
+                            "@Align": "Justify",
+                            "@AutoSpaceEAsianEng": "true",
+                            "@AutoSpaceEAsianNum": "true",
+                            "@BreakLatinWord": "KeepWord",
+                            "@BreakNonLatinWord": "true",
+                            "@Condense": "0",
+                            "@FontLineHeight": "false",
+                            "@HeadingType": "None",
+                            "@Id": "19",
+                            "@KeepLines": "false",
+                            "@KeepWithNext": "false",
+                            "@Level": "0",
+                            "@LineWrap": "Break",
+                            "@PageBreakBefore": "false",
+                            "@SnapToGrid": "false",
+                            "@TabDef": "9",
+                            "@VerAlign": "Baseline",
+                            "@WidowOrphan": "false",
+                            "PARAMARGIN": {
+                                "Indent": "-3000",
+                                "Left": "0",
+                                "LineSpacing": "143",
+                                "LineSpacingType": "Percent",
+                                "Next": "0",
+                                "Prev": "0",
+                                "Right": "0"
+                            },
+                            "PARABORDER": {
+                                "BorderFill": "2",
+                                "Connect": "false",
+                                "IgnoreMargin": "false"
+                            }
+                        },
+                        {
+                            "@Align": "Justify",
+                            "@AutoSpaceEAsianEng": "false",
+                            "@AutoSpaceEAsianNum": "false",
+                            "@BreakLatinWord": "KeepWord",
+                            "@BreakNonLatinWord": "true",
+                            "@Condense": "0",
+                            "@FontLineHeight": "false",
+                            "@HeadingType": "None",
+                            "@Id": "20",
+                            "@KeepLines": "false",
+                            "@KeepWithNext": "false",
+                            "@Level": "0",
+                            "@LineWrap": "Break",
+                            "@PageBreakBefore": "false",
+                            "@SnapToGrid": "false",
+                            "@TabDef": "7",
+                            "@VerAlign": "Baseline",
+                            "@WidowOrphan": "false",
+                            "PARAMARGIN": {
+                                "Indent": "0",
+                                "Left": "2260",
+                                "LineSpacing": "140",
+                                "LineSpacingType": "Percent",
+                                "Next": "0",
+                                "Prev": "0",
+                                "Right": "0"
+                            },
+                            "PARABORDER": {
+                                "BorderFill": "2",
+                                "Connect": "false",
+                                "IgnoreMargin": "false"
+                            }
+                        },
+                        {
+                            "@Align": "Justify",
+                            "@AutoSpaceEAsianEng": "true",
+                            "@AutoSpaceEAsianNum": "true",
+                            "@BreakLatinWord": "KeepWord",
+                            "@BreakNonLatinWord": "true",
+                            "@Condense": "0",
+                            "@FontLineHeight": "false",
+                            "@HeadingType": "None",
+                            "@Id": "21",
+                            "@KeepLines": "false",
+                            "@KeepWithNext": "false",
+                            "@Level": "0",
+                            "@LineWrap": "Break",
+                            "@PageBreakBefore": "false",
+                            "@SnapToGrid": "false",
+                            "@TabDef": "9",
+                            "@VerAlign": "Baseline",
+                            "@WidowOrphan": "false",
+                            "PARAMARGIN": {
+                                "Indent": "-3346",
+                                "Left": "0",
+                                "LineSpacing": "143",
+                                "LineSpacingType": "Percent",
+                                "Next": "0",
+                                "Prev": "0",
+                                "Right": "0"
+                            },
+                            "PARABORDER": {
+                                "BorderFill": "2",
+                                "Connect": "false",
+                                "IgnoreMargin": "false"
+                            }
+                        }
+                    ],
+                    "Count": "22"
+                },
+                "STYLELIST": {
+                    "STYLE": [],
+                    "Count": "19"
+                }
+            },
+            "COMPATIBLEDOCUMENT": {
+                "@TargetProgram": "None",
+                "LAYOUTCOMPATIBILITY": {
+                    "AdjustBaselineInFixedLinespacing": "false",
+                    "AdjustBaselineOfObjectToBottom": "false",
+                    "AdjustLineheightToFont": "false",
+                    "AdjustMarginFromAdjustLineheight": "false",
+                    "AdjustParaBorderOffsetWithBorder": "false",
+                    "AdjustParaBorderfillToSpacing": "false",
+                    "AdjustVertPosOfLine": "false",
+                    "ApplyAtLeastToPercent100Pct": "false",
+                    "ApplyCharSpacingToCharGrid": "false",
+                    "ApplyExtendHeaderFooterEachSection": "false",
+                    "ApplyFontWeightToBold": "false",
+                    "ApplyFontspaceToLatin": "false",
+                    "ApplyMinColumnWidthTo1mm": "false",
+                    "ApplyNextspacingOfLastPara": "false",
+                    "ApplyParaBorderToOutside": "false",
+                    "ApplyPrevspacingBeneathObject": "false",
+                    "ApplyTabPosBasedOnSegment": "false",
+                    "BaseCharUnitOfIndentOnFirstChar": "false",
+                    "BaseCharUnitOnEAsian": "false",
+                    "BaseLinespacingOnLinegrid": "false",
+                    "BreakTabOverLine": "false",
+                    "ConnectParaBorderfillOfEqualBorder": "false",
+                    "DoNotAdjustEmptyAnchorLine": "false",
+                    "DoNotAdjustWordInJustify": "false",
+                    "DoNotAlignLastForbidden": "false",
+                    "DoNotAlignLastPeriod": "false",
+                    "DoNotAlignWhitespaceOnRight": "false",
+                    "DoNotApplyAutoSpaceEAsianEng": "false",
+                    "DoNotApplyAutoSpaceEAsianNum": "false",
+                    "DoNotApplyColSeparatorAtNoGap": "false",
+                    "DoNotApplyExtensionCharCompose": "false",
+                    "DoNotApplyGridInHeaderFooter": "false",
+                    "DoNotApplyHeaderFooterAtNoSpace": "false",
+                    "DoNotApplyImageEffect": "false",
+                    "DoNotApplyLinegridAtNoLinespacing": "false",
+                    "DoNotApplyShapeComment": "false",
+                    "DoNotApplyStrikeoutWithUnderline": "false",
+                    "DoNotApplyVertOffsetOfForward": "false",
+                    "DoNotApplyWhiteSpaceHeight": "false",
+                    "DoNotFormattingAtBeneathAnchor": "false",
+                    "DoNotHoldAnchorOfTable": "false",
+                    "ExtendLineheightToOffset": "false",
+                    "ExtendLineheightToParaBorderOffset": "false",
+                    "ExtendVertLimitToPageMargins": "false",
+                    "FixedUnderlineWidth": "false",
+                    "OverlapBothAllowOverlap": "false",
+                    "TreatQuotationAsLatin": "false",
+                    "UseInnerUnderline": "false",
+                    "UseLowercaseStrikeout": "false"
+                },
+                "TargetProgram": "None"
+            },
+            "SecCnt": "1"
+        },
+        "BODY": {
+            "SECTION": {
+                "P": [
+                    {
+                        "@ColumnBreak": "false",
+                        "@PageBreak": "false",
+                        "@ParaShape": "14",
+                        "@Style": "0",
+                        "TEXT": {
+                            "@CharShape": "12",
+                            "SECDEF": {
+                                "@CharGrid": "0",
+                                "@FirstBorder": "false",
+                                "@FirstFill": "false",
+                                "@LineGrid": "0",
+                                "@SpaceColumns": "1130",
+                                "@TabStop": "8000",
+                                "@TextDirection": "0",
+                                "@TextVerticalWidthHead": "0",
+                                "STARTNUMBER": {
+                                    "Equation": "0",
+                                    "Figure": "0",
+                                    "Page": "0",
+                                    "PageStartsOn": "Both",
+                                    "Table": "0"
+                                },
+                                "HIDE": {
+                                    "Border": "false",
+                                    "EmptyLine": "false",
+                                    "Fill": "false",
+                                    "Footer": "false",
+                                    "Header": "false",
+                                    "MasterPage": "false",
+                                    "PageNumPos": "false"
+                                },
+                                "PAGEDEF": {
+                                    "@GutterType": "LeftOnly",
+                                    "@Height": "119052",
+                                    "@Landscape": "0",
+                                    "@Width": "84188",
+                                    "PAGEMARGIN": {
+                                        "Bottom": "8787",
+                                        "Footer": "0",
+                                        "Gutter": "0",
+                                        "Header": "0",
+                                        "Left": "8787",
+                                        "Right": "8787",
+                                        "Top": "8787"
+                                    },
+                                    "GutterType": "LeftOnly",
+                                    "Height": "119052",
+                                    "Landscape": "0",
+                                    "Width": "84188"
+                                },
+                                "FOOTNOTESHAPE": {
+                                    "AUTONUMFORMAT": {
+                                        "SuffixChar": ")",
+                                        "Superscript": "false",
+                                        "Type": "Digit"
+                                    },
+                                    "NOTELINE": {
+                                        "Length": "5cm",
+                                        "Type": "Solid",
+                                        "Width": "0.12mm"
+                                    },
+                                    "NOTESPACING": {
+                                        "AboveLine": "852",
+                                        "BelowLine": "568",
+                                        "BetweenNotes": "284"
+                                    },
+                                    "NOTENUMBERING": {
+                                        "NewNumber": "1",
+                                        "Type": "Continuous"
+                                    },
+                                    "NOTEPLACEMENT": {
+                                        "BeneathText": "false",
+                                        "Place": "EachColumn"
+                                    }
+                                },
+                                "ENDNOTESHAPE": {
+                                    "AUTONUMFORMAT": {
+                                        "SuffixChar": ")",
+                                        "Superscript": "false",
+                                        "Type": "Digit"
+                                    },
+                                    "NOTELINE": {
+                                        "Length": "0",
+                                        "Type": "None",
+                                        "Width": "0.12mm"
+                                    },
+                                    "NOTESPACING": {
+                                        "AboveLine": "864",
+                                        "BelowLine": "576",
+                                        "BetweenNotes": "0"
+                                    },
+                                    "NOTENUMBERING": {
+                                        "NewNumber": "1",
+                                        "Type": "Continuous"
+                                    },
+                                    "NOTEPLACEMENT": {
+                                        "BeneathText": "false",
+                                        "Place": "EndOfDocument"
+                                    }
+                                },
+                                "PAGEBORDERFILL": {
+                                    "@BorferFill": "1",
+                                    "@FillArea": "Paper",
+                                    "@FooterInside": "false",
+                                    "@HeaderInside": "false",
+                                    "@TextBorder": "true",
+                                    "@Type": "Odd",
+                                    "PAGEOFFSET": {
+                                        "Bottom": "1417",
+                                        "Left": "1417",
+                                        "Right": "1417",
+                                        "Top": "1417"
+                                    },
+                                    "BorferFill": "1",
+                                    "FillArea": "Paper",
+                                    "FooterInside": "false",
+                                    "HeaderInside": "false",
+                                    "TextBorder": "true",
+                                    "Type": "Odd"
+                                },
+                                "MASTERPAGE": {
+                                    "@Type": "Odd",
+                                    "PARALIST": {
+                                        "@HasNumRef": "false",
+                                        "@HasTextRef": "false",
+                                        "@LineWrap": "Break",
+                                        "@LinkListID": "0",
+                                        "@LinkListIDNext": "0",
+                                        "@TextDirection": "0",
+                                        "@TextHeight": "101478",
+                                        "@TextWidth": "66614",
+                                        "@VertAlign": "Top",
+                                        "P": {
+                                            "@ParaShape": "17",
+                                            "@Style": "0",
+                                            "TEXT": {
+                                                "@CharShape": "7",
+                                                "POLYGON": {
+                                                    "SHAPEOBJECT": {
+                                                        "@InstId": "1344255497",
+                                                        "@Lock": "false",
+                                                        "@NumberingType": "None",
+                                                        "@TextWrap": "InFrontOfText",
+                                                        "@ZOrder": "14",
+                                                        "SIZE": {
+                                                            "Height": "102183",
+                                                            "HeightRelTo": "Absolute",
+                                                            "Protect": "false",
+                                                            "Width": "99",
+                                                            "WidthRelTo": "Absolute"
+                                                        },
+                                                        "POSITION": {
+                                                            "AffectLSpacing": "false",
+                                                            "AllowOverlap": "false",
+                                                            "FlowWithText": "true",
+                                                            "HoldAnchorAndSO": "false",
+                                                            "HorzAlign": "Center",
+                                                            "HorzOffset": "0",
+                                                            "HorzRelTo": "Paper",
+                                                            "TreatAsChar": "false",
+                                                            "VertAlign": "Top",
+                                                            "VertOffset": "8503",
+                                                            "VertRelTo": "Paper"
+                                                        },
+                                                        "OUTSIDEMARGIN": {
+                                                            "Bottom": "0",
+                                                            "Left": "0",
+                                                            "Right": "0",
+                                                            "Top": "0"
+                                                        },
+                                                        "SHAPECOMMENT": "다각형입니다.",
+                                                        "InstId": "1344255497",
+                                                        "Lock": "false",
+                                                        "NumberingType": "None",
+                                                        "TextWrap": "InFrontOfText",
+                                                        "ZOrder": "14"
+                                                    },
+                                                    "DRAWINGOBJECT": {
+                                                        "SHAPECOMPONENT": {
+                                                            "@CurHeight": "102183",
+                                                            "@CurWidth": "99",
+                                                            "@GroupLevel": "0",
+                                                            "@HorzFlip": "false",
+                                                            "@InstID": "686638580",
+                                                            "@OriHeight": "91976",
+                                                            "@OriWidth": "84",
+                                                            "@VertFlip": "false",
+                                                            "@XPos": "0",
+                                                            "@YPos": "0",
+                                                            "ROTATIONINFO": {
+                                                                "Angle": "0",
+                                                                "CenterX": "49",
+                                                                "CenterY": "51091",
+                                                                "Rotate": "0"
+                                                            },
+                                                            "RENDERINGINFO": {
+                                                                "TRANSMATRIX": {
+                                                                    "E1": "1.00000",
+                                                                    "E2": "0.00000",
+                                                                    "E3": "0.00000",
+                                                                    "E4": "0.00000",
+                                                                    "E5": "1.00000",
+                                                                    "E6": "0.00000"
+                                                                },
+                                                                "SCAMATRIX": {
+                                                                    "E1": "1.17857",
+                                                                    "E2": "0.00000",
+                                                                    "E3": "0.00000",
+                                                                    "E4": "0.00000",
+                                                                    "E5": "1.11097",
+                                                                    "E6": "0.00000"
+                                                                },
+                                                                "ROTMATRIX": {
+                                                                    "E1": "1.00000",
+                                                                    "E2": "0.00000",
+                                                                    "E3": "0.00000",
+                                                                    "E4": "0.00000",
+                                                                    "E5": "1.00000",
+                                                                    "E6": "0.00000"
+                                                                }
+                                                            },
+                                                            "CurHeight": "102183",
+                                                            "CurWidth": "99",
+                                                            "GroupLevel": "0",
+                                                            "HorzFlip": "false",
+                                                            "InstID": "686638580",
+                                                            "OriHeight": "91976",
+                                                            "OriWidth": "84",
+                                                            "VertFlip": "false",
+                                                            "XPos": "0",
+                                                            "YPos": "0"
+                                                        },
+                                                        "LINESHAPE": {
+                                                            "Alpha": "0",
+                                                            "EndCap": "Flat",
+                                                            "Style": "Solid"
+                                                        },
+                                                        "FILLBRUSH": {
+                                                            "WINDOWBRUSH": {
+                                                                "Alpha": "0",
+                                                                "FaceColor": "0",
+                                                                "HatchColor": "0"
+                                                            }
+                                                        },
+                                                        "SHADOW": {
+                                                            "Alpha": "0",
+                                                            "Color": "0",
+                                                            "OffsetX": "0",
+                                                            "OffsetY": "0",
+                                                            "Type": "0"
+                                                        }
+                                                    },
+                                                    "POINT": {
+                                                        "X": "0",
+                                                        "Y": "0"
+                                                    }
+                                                },
+                                                "CHAR": null,
+                                                "CharShape": "7"
+                                            },
+                                            "ParaShape": "17",
+                                            "Style": "0"
+                                        },
+                                        "HasNumRef": "false",
+                                        "HasTextRef": "false",
+                                        "LineWrap": "Break",
+                                        "LinkListID": "0",
+                                        "LinkListIDNext": "0",
+                                        "TextDirection": "0",
+                                        "TextHeight": "101478",
+                                        "TextWidth": "66614",
+                                        "VertAlign": "Top"
+                                    },
+                                    "Type": "Odd"
+                                },
+                                "CharGrid": "0",
+                                "FirstBorder": "false",
+                                "FirstFill": "false",
+                                "LineGrid": "0",
+                                "SpaceColumns": "1130",
+                                "TabStop": "8000",
+                                "TextDirection": "0",
+                                "TextVerticalWidthHead": "0"
+                            },
+                            "COLDEF": {
+                                "Count": "2",
+                                "Layout": "Left",
+                                "SameGap": "3120",
+                                "SameSize": "true",
+                                "Type": "Newspaper"
+                            },
+                            "TABLE": {
+                                "@BorderFill": "3",
+                                "@CellSpacing": "0",
+                                "@ColCount": "7",
+                                "@PageBreak": "Cell",
+                                "@RepeatHeader": "true",
+                                "@RowCount": "2",
+                                "SHAPEOBJECT": {
+                                    "@InstId": "1535634412",
+                                    "@Lock": "false",
+                                    "@NumberingType": "Table",
+                                    "@ZOrder": "12",
+                                    "SIZE": {
+                                        "Height": "3232",
+                                        "HeightRelTo": "Absolute",
+                                        "Protect": "false",
+                                        "Width": "31748",
+                                        "WidthRelTo": "Absolute"
+                                    },
+                                    "POSITION": {
+                                        "AffectLSpacing": "false",
+                                        "AllowOverlap": "false",
+                                        "FlowWithText": "true",
+                                        "HoldAnchorAndSO": "false",
+                                        "HorzAlign": "Left",
+                                        "HorzOffset": "0",
+                                        "HorzRelTo": "Para",
+                                        "TreatAsChar": "true",
+                                        "VertAlign": "Top",
+                                        "VertOffset": "0",
+                                        "VertRelTo": "Para"
+                                    },
+                                    "OUTSIDEMARGIN": {
+                                        "Bottom": "0",
+                                        "Left": "0",
+                                        "Right": "0",
+                                        "Top": "0"
+                                    },
+                                    "InstId": "1535634412",
+                                    "Lock": "false",
+                                    "NumberingType": "Table",
+                                    "ZOrder": "12"
+                                },
+                                "INSIDEMARGIN": {
+                                    "Bottom": "283",
+                                    "Left": "283",
+                                    "Right": "283",
+                                    "Top": "283"
+                                },
+                                "ROW": {
+                                    "CELL": [
+                                        {
+                                            "@BorderFill": "3",
+                                            "@ColAddr": "0",
+                                            "@ColSpan": "1",
+                                            "@Dirty": "false",
+                                            "@Editable": "false",
+                                            "@HasMargin": "false",
+                                            "@Header": "false",
+                                            "@Height": "1431",
+                                            "@Protect": "false",
+                                            "@RowAddr": "1",
+                                            "@RowSpan": "1",
+                                            "@Width": "7371",
+                                            "CELLMARGIN": {
+                                                "Bottom": "141",
+                                                "Left": "510",
+                                                "Right": "510",
+                                                "Top": "141"
+                                            },
+                                            "PARALIST": {
+                                                "@LineWrap": "Break",
+                                                "@LinkListID": "0",
+                                                "@LinkListIDNext": "0",
+                                                "@TextDirection": "0",
+                                                "@VertAlign": "Center",
+                                                "P": {
+                                                    "@ParaShape": "18",
+                                                    "@Style": "0",
+                                                    "TEXT": {
+                                                        "@CharShape": "18",
+                                                        "CHAR": "00n-S190106",
+                                                        "CharShape": "18"
+                                                    },
+                                                    "ParaShape": "18",
+                                                    "Style": "0"
+                                                },
+                                                "LineWrap": "Break",
+                                                "LinkListID": "0",
+                                                "LinkListIDNext": "0",
+                                                "TextDirection": "0",
+                                                "VertAlign": "Center"
+                                            }
+                                        },
+                                        {
+                                            "@BorderFill": "3",
+                                            "@ColAddr": "1",
+                                            "@ColSpan": "2",
+                                            "@Dirty": "false",
+                                            "@Editable": "false",
+                                            "@HasMargin": "false",
+                                            "@Header": "false",
+                                            "@Height": "1431",
+                                            "@Protect": "false",
+                                            "@RowAddr": "1",
+                                            "@RowSpan": "1",
+                                            "@Width": "3551",
+                                            "CELLMARGIN": {
+                                                "Bottom": "141",
+                                                "Left": "510",
+                                                "Right": "510",
+                                                "Top": "141"
+                                            },
+                                            "PARALIST": {
+                                                "@LineWrap": "Break",
+                                                "@LinkListID": "0",
+                                                "@LinkListIDNext": "0",
+                                                "@TextDirection": "0",
+                                                "@VertAlign": "Center",
+                                                "P": {
+                                                    "@ParaShape": "18",
+                                                    "@Style": "0",
+                                                    "TEXT": {
+                                                        "@CharShape": "22",
+                                                        "CHAR": "중",
+                                                        "CharShape": "22"
+                                                    },
+                                                    "ParaShape": "18",
+                                                    "Style": "0"
+                                                },
+                                                "LineWrap": "Break",
+                                                "LinkListID": "0",
+                                                "LinkListIDNext": "0",
+                                                "TextDirection": "0",
+                                                "VertAlign": "Center"
+                                            }
+                                        },
+                                        {
+                                            "@BorderFill": "3",
+                                            "@ColAddr": "3",
+                                            "@ColSpan": "1",
+                                            "@Dirty": "false",
+                                            "@Editable": "false",
+                                            "@HasMargin": "false",
+                                            "@Header": "false",
+                                            "@Height": "1431",
+                                            "@Protect": "false",
+                                            "@RowAddr": "1",
+                                            "@RowSpan": "1",
+                                            "@Width": "3551",
+                                            "CELLMARGIN": {
+                                                "Bottom": "141",
+                                                "Left": "510",
+                                                "Right": "510",
+                                                "Top": "141"
+                                            },
+                                            "PARALIST": {
+                                                "@LineWrap": "Break",
+                                                "@LinkListID": "0",
+                                                "@LinkListIDNext": "0",
+                                                "@TextDirection": "0",
+                                                "@VertAlign": "Center",
+                                                "P": {
+                                                    "@ParaShape": "18",
+                                                    "@Style": "0",
+                                                    "TEXT": {
+                                                        "@CharShape": "22",
+                                                        "CHAR": "철영민",
+                                                        "CharShape": "22"
+                                                    },
+                                                    "ParaShape": "18",
+                                                    "Style": "0"
+                                                },
+                                                "LineWrap": "Break",
+                                                "LinkListID": "0",
+                                                "LinkListIDNext": "0",
+                                                "TextDirection": "0",
+                                                "VertAlign": "Center"
+                                            }
+                                        },
+                                        {
+                                            "@BorderFill": "3",
+                                            "@ColAddr": "4",
+                                            "@ColSpan": "3",
+                                            "@Dirty": "false",
+                                            "@Editable": "false",
+                                            "@HasMargin": "false",
+                                            "@Header": "false",
+                                            "@Height": "1431",
+                                            "@Protect": "false",
+                                            "@RowAddr": "1",
+                                            "@RowSpan": "1",
+                                            "@Width": "17275",
+                                            "CELLMARGIN": {
+                                                "Bottom": "141",
+                                                "Left": "510",
+                                                "Right": "510",
+                                                "Top": "141"
+                                            },
+                                            "PARALIST": {
+                                                "@LineWrap": "Break",
+                                                "@LinkListID": "0",
+                                                "@LinkListIDNext": "0",
+                                                "@TextDirection": "0",
+                                                "@VertAlign": "Center",
+                                                "P": {
+                                                    "@ParaShape": "14",
+                                                    "@Style": "0",
+                                                    "TEXT": {
+                                                        "@CharShape": "19",
+                                                        "CHAR": "담론, 정상파 융합, 실생활, 정량",
+                                                        "CharShape": "19"
+                                                    },
+                                                    "ParaShape": "14",
+                                                    "Style": "0"
+                                                },
+                                                "LineWrap": "Break",
+                                                "LinkListID": "0",
+                                                "LinkListIDNext": "0",
+                                                "TextDirection": "0",
+                                                "VertAlign": "Center"
+                                            }
+                                        }
+                                    ]
+                                },
+                                "BorderFill": "3",
+                                "CellSpacing": "0",
+                                "ColCount": "7",
+                                "PageBreak": "Cell",
+                                "RepeatHeader": "true",
+                                "RowCount": "2"
+                            },
+                            "CHAR": null,
+                            "CharShape": "12"
+                        }
+                    },
+                    {
+                        "@ParaShape": "14",
+                        "@Style": "0",
+                        "TEXT": {
+                            "CharShape": "12"
+                        }
+                    },
+                    {
+                        "@ParaShape": "1",
+                        "@Style": "1",
+                        "TEXT": {
+                            "@CharShape": "1",
+                            "CHAR": "1.",
+                            "CharShape": "1"
+                        }
+                    },
+                    {
+                        "@ParaShape": "0",
+                        "@Style": "2"
+                    },
+                    {
+                        "@ParaShape": "2",
+                        "@Style": "7",
+                        "TEXT": {
+                            "@CharShape": "0",
+                            "CHAR": "스타일 : 작업 전 정리 / 가운데 정렬",
+                            "CharShape": "0"
+                        }
+                    },
+                    {
+                        "@ParaShape": "7",
+                        "@Style": "3"
+                    },
+                    {
+                        "@ParaShape": "16",
+                        "@Style": "7",
+                        "TEXT": {
+                            "@CharShape": "0",
+                            "TABLE": {
+                                "@BorderFill": "4",
+                                "@CellSpacing": "0",
+                                "@ColCount": "3",
+                                "@PageBreak": "None",
+                                "@RepeatHeader": "true",
+                                "@RowCount": "3",
+                                "SHAPEOBJECT": {
+                                    "@InstId": "1515288096",
+                                    "@Lock": "false",
+                                    "@NumberingType": "Table",
+                                    "@ZOrder": "0",
+                                    "SIZE": {
+                                        "Height": "7409",
+                                        "HeightRelTo": "Absolute",
+                                        "Protect": "false",
+                                        "Width": "30741",
+                                        "WidthRelTo": "Absolute"
+                                    },
+                                    "POSITION": {
+                                        "AffectLSpacing": "false",
+                                        "AllowOverlap": "false",
+                                        "FlowWithText": "true",
+                                        "HoldAnchorAndSO": "false",
+                                        "HorzAlign": "Left",
+                                        "HorzOffset": "0",
+                                        "HorzRelTo": "Para",
+                                        "TreatAsChar": "true",
+                                        "VertAlign": "Top",
+                                        "VertOffset": "0",
+                                        "VertRelTo": "Para"
+                                    },
+                                    "OUTSIDEMARGIN": {
+                                        "Bottom": "0",
+                                        "Left": "0",
+                                        "Right": "0",
+                                        "Top": "0"
+                                    },
+                                    "InstId": "1515288096",
+                                    "Lock": "false",
+                                    "NumberingType": "Table",
+                                    "ZOrder": "0"
+                                },
+                                "INSIDEMARGIN": {
+                                    "Bottom": "0",
+                                    "Left": "0",
+                                    "Right": "0",
+                                    "Top": "0"
+                                },
+                                "ROW": {
+                                    "CELL": {
+                                        "@BorderFill": "9",
+                                        "@ColAddr": "0",
+                                        "@ColSpan": "3",
+                                        "@Dirty": "false",
+                                        "@Editable": "false",
+                                        "@HasMargin": "true",
+                                        "@Header": "false",
+                                        "@Height": "6015",
+                                        "@Protect": "false",
+                                        "@RowAddr": "2",
+                                        "@RowSpan": "1",
+                                        "@Width": "30741",
+                                        "CELLMARGIN": {
+                                            "Bottom": "992",
+                                            "Left": "850",
+                                            "Right": "850",
+                                            "Top": "637"
+                                        },
+                                        "PARALIST": {
+                                            "P": [
+                                                {
+                                                    "@ParaShape": "21",
+                                                    "@Style": "5",
+                                                    "TEXT": {
+                                                        "@CharShape": "25",
+                                                        "CHAR": "ㄱ. 스타일 : 보기 ㄱ, ㄴ, ㄷ / 앞은 한칸 띄어쓰기",
+                                                        "CharShape": "25"
+                                                    }
+                                                },
+                                                {
+                                                    "@ParaShape": "21",
+                                                    "@Style": "5",
+                                                    "TEXT": {
+                                                        "@CharShape": "24",
+                                                        "CHAR": "ㄴ. 보기가 필요 없는 문항은 이 박스를 통째로 삭제",
+                                                        "CharShape": "24"
+                                                    }
+                                                },
+                                                {
+                                                    "@ParaShape": "21",
+                                                    "@Style": "5"
+                                                }
+                                            ],
+                                            "LineWrap": "Break",
+                                            "LinkListID": "0",
+                                            "LinkListIDNext": "0",
+                                            "TextDirection": "0",
+                                            "VertAlign": "Center"
+                                        },
+                                        "BorderFill": "9",
+                                        "ColAddr": "0",
+                                        "ColSpan": "3",
+                                        "Dirty": "false",
+                                        "Editable": "false",
+                                        "HasMargin": "true",
+                                        "Header": "false",
+                                        "Height": "6015",
+                                        "Protect": "false",
+                                        "RowAddr": "2",
+                                        "RowSpan": "1",
+                                        "Width": "30741"
+                                    }
+                                },
+                                "BorderFill": "4",
+                                "CellSpacing": "0",
+                                "ColCount": "3",
+                                "PageBreak": "None",
+                                "RepeatHeader": "true",
+                                "RowCount": "3"
+                            },
+                            "CHAR": null,
+                            "CharShape": "0"
+                        }
+                    },
+                    {
+                        "@ParaShape": "5",
+                        "@Style": "6",
+                        "TEXT": {
+                            "@CharShape": "26",
+                            "CHAR": "① ㄱ<TAB />② ㄴ<TAB />③ ㄷ<TAB />④ ㄱ, ㄴ<TAB />⑤ ㄴ, ㄷ",
+                            "CharShape": "26"
+                        }
+                    },
+                    {
+                        "@ParaShape": "14",
+                        "@Style": "0",
+                        "TEXT": {
+                            "CharShape": "12"
+                        }
+                    },
+                    {
+                        "@ParaShape": "14",
+                        "@Style": "0",
+                        "TEXT": {
+                            "CharShape": "12"
+                        }
+                    },
+                    {
+                        "@ParaShape": "0",
+                        "@Style": "2",
+                        "TEXT": {
+                            "@CharShape": "0",
+                            "CHAR": "정답 : ③",
+                            "CharShape": "0"
+                        }
+                    },
+                    {
+                        "@ParaShape": "16",
+                        "@Style": "7",
+                        "TEXT": {
+                            "CharShape": "0"
+                        }
+                    },
+                    {
+                        "@ParaShape": "14",
+                        "@Style": "0",
+                        "TEXT": {
+                            "CharShape": "12"
+                        }
+                    },
+                    {
+                        "@ParaShape": "14",
+                        "@Style": "0",
+                        "TEXT": {
+                            "CharShape": "12"
+                        }
+                    },
+                    {
+                        "@ColumnBreak": "true",
+                        "@PageBreak": "false",
+                        "@ParaShape": "1",
+                        "@Style": "1",
+                        "TEXT": {
+                            "CharShape": "1"
+                        }
+                    }
+                ],
+                "Id": "0"
+            }
+        },
+        "TAIL": {
+            "SCRIPTCODE": {
+                "@Type": "JScript",
+                "@Version": "1.0",
+                "SCRIPTHEADER": null,
+                "SCRIPTSOURCE": null,
+                "Type": "JScript",
+                "Version": "1.0"
+            }
+        }
+    }
+}

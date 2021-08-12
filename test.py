@@ -1,6 +1,12 @@
-xml = "한글테스트"
-f = open("C:/Users/rootsj/Desktop/hiconcy/static/testkorean.txt", 'w', encoding="UTF-8")
+import collections
 
-f.write(xml)
+participant = ["leo", "kiki", "eden"]
+completion = ["eden", "kiki"]
 
-f.close
+def solution(participant, completion):
+    answer = collections.Counter(participant) - collections.Counter(completion)
+    return list(answer.keys())[0]
+
+print(collections.Counter(participant))
+print(collections.Counter(completion))
+print(collections.Counter(participant) - collections.Counter(completion))
