@@ -1,18 +1,37 @@
 from enum import EnumMeta
+from xml import etree
 from xml.etree import cElementTree as ElementTree
 import json
 import re
+from collections import OrderedDict
+
 
 class XmlListConfig(list):
     def __init__(self, aList):
-        print(aList)
         for element in aList:
             # print(element)
-            # print(element.text)
+            # print(element.items())
+
+            if element.items(): #attributes
+                elem = [('@'+key, value) for (key, value) in element.items()]
+                print(len(element.items()))
+                # for ele in element:
+                #     print(ele)
+                # print(element.items())
+                # print(len(element))
+                # print(elem1 for elem1 in element)
+                # print('-----')
+                # for elem in element:
+                    # if elem:
+                    #     print(elem)
+                    #     print(type(elem))
+                        # aDict = XmlDictConfig(element)
+                        # self.append({elem.tag: aDict})
+                self.append(OrderedDict(elem))
             if element:
                 # print(element)
                 # treat like dict
-                if len(element) == 1 or element[0].tag != element[-1].tag:
+                if len(element) == 1 or element[0].tag != element[1].tag:
                     # print(element)
                     # if len(element) > 1:
                     #     print('lif')
@@ -23,6 +42,7 @@ class XmlListConfig(list):
                     self.append(XmlDictConfig(element))
                 # treat like list
                 elif element[0].tag == element[1].tag:
+                    
                     # print(element)
                     # for ele in element:
                         # print(ele.items())
@@ -31,7 +51,9 @@ class XmlListConfig(list):
                     #     print(value)
                     #     print(type(value))
                     # self.append(dict(('@'+key, value) for (key, value) in element.items()))
-                    self.append(element)
+                    self.append(XmlListConfig(element))
+            # elif element.items():
+            #     self.append(OrderedDict(element.items()))
             elif element.text:
                 text = element.text.strip()
                 if text:
@@ -40,10 +62,10 @@ class XmlListConfig(list):
 
 class XmlDictConfig(dict):
     def __init__(self, parent_element):
-        if parent_element.items():
-            element = []
-            for (key, value) in parent_element.items():
-                element.append(('@'+key, value))
+        # childrenNames = [child.tag for child in parent_element.getchildren()]
+
+        if parent_element.items(): #attributes
+            element = [('@'+key, value) for (key, value) in parent_element.items()]
             self.update(dict(element))
         
         for element in parent_element:
@@ -73,6 +95,16 @@ class XmlDictConfig(dict):
                 # if the tag has attributes, add those to the dict
                 if element.items():
                     aDict.update(dict(element.items()))
+
+                # if childrenNames.count(element.tag) > 1:
+                #     try:
+                #         currentValue = self[element.tag]
+                #         currentValue.append(aDict)
+                #         # print(aDict)
+                #         self.update({element.tag: currentValue})
+                #     except: #the first of its kind, an empty list must be created
+                #         self.update({element.tag: list(aDict)}) #aDict is written in [], i.e. it will be a list
+                # else:
                 self.update({element.tag: aDict})
             # this assumes that if you've got an attribute in a tag,
             # you won't be having any text. This may or may not be a 
@@ -80,6 +112,7 @@ class XmlDictConfig(dict):
             # currently doing XML configuration files...
             elif element.items():
                 self.update({element.tag: dict(element.items())})
+                # self[element.tag].update({"__Content__":element.text})
             # finally, if there are no child tags and no attributes, extract
             # the text
             else:
@@ -115,9 +148,9 @@ xmldict = {"HWPML" : xmldict}
 
 # print(xmldict)
 
-# jsonString = json.dumps(xmldict,
-# ensure_ascii=False, 
-# indent=4
-# )
-# with open("C:/Users/rootsj/Desktop/hiconsy/static/xml_to_json3.json", 'w', encoding="UTF-8") as f:
-#     f.write(jsonString)
+jsonString = json.dumps(xmldict,
+ensure_ascii=False, 
+indent=4
+)
+with open("C:/Users/rootsj/Desktop/hiconsy/static/xml_to_json11.json", 'w', encoding="UTF-8") as f:
+    f.write(jsonString)
