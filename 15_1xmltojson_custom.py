@@ -5,7 +5,7 @@ import re
 
 def etree_to_dict(t):
     a = 0
-    # CHAR 검증하는 객체
+    # CHAR 검증 코드
 
     if t.tag == 'CHAR': # <CHAR> tag일 때
         xmlstr = ET.tostring(t , encoding='unicode', method='xml')

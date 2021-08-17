@@ -5,7 +5,7 @@ import re
 
 def etree_to_dict(t):
     a = 0
-    # CHAR 검증하는 객체
+    # CHAR 검증
 
     if t.tag == 'CHAR': # <CHAR> tag일 때
         xmlstr = ET.tostring(t , encoding='unicode', method='xml')
@@ -18,7 +18,7 @@ def etree_to_dict(t):
             # <CHAR>안에 text 있을 때
             d = {t.tag: xmlstr[1]}
             a = 1
-            # 검증 코드 CHAR일때 하위 tag검색 X
+            # 검증 코드, CHAR일때 하위 tag검색 X
         else:
             d = {t.tag: t.text}
             # 텍스트 내용 없을 때 t.text = null 값
