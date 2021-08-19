@@ -11,7 +11,7 @@ with olefile.OleFileIO('C:/Users/rootsj/Desktop/hiconsy/static/test.hwp') as ole
         if entry[0] == "PrvImage":
             prvimg = ole.openstream(entry)
             data = prvimg.read()
-
+            # print(data)
             with open('img.bmp', 'wb') as f:
                 f.write(data)     
         # 이후 섬네일 이미지는 opencv로 진행하면 됨
