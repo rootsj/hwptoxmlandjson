@@ -1,24 +1,27 @@
-ans = 3
+import sys
 
-a = [1, 2, 1, 3, 1, 1, 1, 2]
+sys.stdin = open('test.txt', 'r')
+n = int(input())
+a = [list(map(int, input().split())) for _ in range(n)]
 
-l1 = 0
-r1 = 1
-temp = a[0]
-cnt = 0
+maxv = 0
+for i in range(n):
+    if sum(a[i]) > maxv:
+        maxv = sum(a[i])
+    
+    verv = 0
+    for j in range(n):
+        verv += a[j][i]
+    if verv > maxv:
+        maxv = verv
 
-while l1 <= len(a):
-    if temp > ans:
-        temp -= a[l1]
-        l1 += 1
-    elif temp == ans:
-        cnt += 1
-        temp -= a[l1]
-        l1 += 1
-    else:
-        if r1 < len(a):
-            temp += a[r1]
-            r1 +=1
-        else:
-            break
-print(cnt)
+x1 = 0
+x2 = 0
+for i in range(n):
+    x1 += a[i][i]
+    x2 += a[i][n-i-1]
+
+if max(x1, x2) > maxv:
+    maxv = max(x1, x2)
+
+print(maxv)
