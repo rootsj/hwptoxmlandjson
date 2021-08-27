@@ -22,8 +22,12 @@ with olefile.OleFileIO('C:/Users/rootsj/Desktop/hiconsy/static/00n-S190106-examp
 
     test = ole.openstream('BodyText/Section0')
     data = test.read()
-    print(data[:100])
-    print(data[22:69].decode())
+    # print(data[:100])
+    tempd = data[22:69]
+    print(type(tempd))
+    print(tempd)
+    print(tempd.decode("ISO-8859-1"))
+
 
 
     # props = ole.getproperties('\x05HwpSummaryInformation')
