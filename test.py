@@ -1,29 +1,33 @@
+from itertools import permutations
+from os import pipe
 import sys
-from traceback import print_tb
 
 sys.stdin = open('test.txt', 'r')
-# n = int(input())
-n = 7
-all = [list(map(int, input().split())) for _ in range(n)]
+k, n = map(int, input().split())
+all = list(int(input()) for _ in range(k))
 
-def our_five(lst):
-    for i in range(2):
-        if lst[i] != lst[4-i]:
-            return False
-    return True
+all.sort()
 
-cnt = 0
-
-for i in range(n):
-    for j in range(3):
-        if our_five(all[i][j:5+j]):
+def Count(line):
+    cnt = 1
+    ep = all[0]
+    for i in range(1, len(all)):
+        if all[i]- ep>= line:
             cnt += 1
-    templ = []7
-    for k in range(n):
-        templ.append(all[k][i])
-    
-    for l in range(3):
-        if our_five(templ[l:5+l]):
-            cnt += 1
+            ep = all[i]
+    return cnt
 
-print(cnt)
+lt = 1
+rt = all[-1]
+res = 0
+
+while lt <= rt:
+    mid = (lt + rt)//2
+
+    if Count(mid) >= n:
+        res = mid
+        lt = mid + 1
+    else:
+        rt = mid - 1
+
+print(res)

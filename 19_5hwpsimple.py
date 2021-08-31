@@ -12,6 +12,10 @@ print(buf[1025:1536])
 num_bbd = GetDword(buf, 0x2C)
 print(num_bbd)
 
+print(GetDword(buf, 0x200))
+print(GetDword(buf, 0x201))
+print(GetDword(buf, 0x202))
+print(GetDword(buf, 0x60E))
 # bbd = ''
 # for i in range(num_bbd):
 #     block_no = GetDword(buf, 0x4c + (i*4))

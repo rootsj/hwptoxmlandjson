@@ -7,7 +7,7 @@ import zlib
 with open('static/00n-S190106-example.pdf', 'rb') as fp:
     buf = fp.read()
     test = io.BytesIO(fp.read())
-    test2 = ole.ReadBlock(fp, -1)
+    test2 = ole.Read(fp, -1)
 
 # buf = zlib.decompress(buf)
 # print(buf)
