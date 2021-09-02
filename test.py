@@ -3,31 +3,21 @@ from os import pipe
 import sys
 
 sys.stdin = open('test.txt', 'r')
-k, n = map(int, input().split())
-all = list(int(input()) for _ in range(k))
+n = int(input())
+# k, n = map(int, input().split())
+meeting = []
+for _ in range(n):
+    s, e = map(int, input().split())
+    meeting.append([s, e])
 
-all.sort()
 
-def Count(line):
-    cnt = 1
-    ep = all[0]
-    for i in range(1, len(all)):
-        if all[i]- ep>= line:
-            cnt += 1
-            ep = all[i]
-    return cnt
+meeting.sort(key=lambda x:(x[1], x[0]))
 
-lt = 1
-rt = all[-1]
-res = 0
+cnt = 1
+end = meeting[0][1]
+for x in meeting[1:]:
+    if end <= x[0]:
+        cnt += 1
+        end = x[1]
 
-while lt <= rt:
-    mid = (lt + rt)//2
-
-    if Count(mid) >= n:
-        res = mid
-        lt = mid + 1
-    else:
-        rt = mid - 1
-
-print(res)
+print(cnt)

@@ -1,7 +1,7 @@
 from binascii import hexlify # hex를 string으로 표혅
 from struct import unpack
 
-fname = 'simple.hwp'
+fname = 'static\\test1.hwp'
 
 magicid = '' # Magic ID
 num_BBAT_depot = '' # Number of BBAT Depot
@@ -35,16 +35,22 @@ with open(fname, 'rb') as fp:
     tmp = bin2hex(fp, 76, num_BBAT_depot * 4)
     array_BBAT_depot_members = unpack('I'*num_BBAT_depot, tmp)
 
+
     if __name__ == '__main__':
-        print('Magic ID : ', hexlify(magicid))
-        print('Magic ID : ', hexlify(magicid).hex())
-        print('Magic ID : ', type(hexlify(magicid)))
-        # print('Magic ID : ', hexlify(magicid).decode('hex'))
+        print('hexlift(id) : ', hexlify(magicid))
+        print('hexlift(id).hex() : ', hexlify(magicid).hex())
+        print('type(hexlify(id) : ', type(hexlify(magicid)))
+        print('bytearray.fromhex(hexlify(id).hex()).decode() : ', bytearray.fromhex(hexlify(magicid).hex()).decode())
         print('---------')
-        print('Magic ID : ', magicid)
-        print('Magic ID : ', magicid.hex())
-        print('Magic ID : ', type(magicid))
-        # print('Magic ID : ', magicid.decode('hex'))
+        print('id : ', magicid)
+        print('id.hex() : ', magicid.hex())
+        print('id.hex().encode("utf-8") : ', magicid.hex().encode('utf-8'))
+        print('type(id) : ', type(magicid))
+        print('---------')
+        print('id.decode("ISO-8859-1") : ', magicid.decode("ISO-8859-1"))
+        print('---------')
+
+
         print('Number of BBAT Depot : ', num_BBAT_depot)
         print('Start block of Property : ', startblock_property)
         print('Start block of SBAT : ', startblock_SBAT)
