@@ -25,9 +25,14 @@ with olefile.OleFileIO('C:/Users/rootsj/Desktop/hiconsy/static/00n-S190106-examp
 
 # zlib.decompress(zlib_data)
 # zlib.decompress(data)
-zlib.decompress(str(data, 'ascii'), zlib.MAX_WBITS|32)
+# zlib.decompress(str(data, 'ascii'), zlib.MAX_WBITS|32)
 # 'test'
 
 
 #  zlib.decompress(zlib_data, zlib.MAX_WBITS|32)
 # 'test'
+
+output = zlib.decompress(data, -15)
+# print(output)
+print(output.decode("cp949"))
+

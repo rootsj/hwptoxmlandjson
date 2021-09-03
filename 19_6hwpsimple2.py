@@ -45,14 +45,22 @@ with open(fname, 'rb') as fp:
         print('id : ', magicid)
         print('id.hex() : ', magicid.hex())
         print('id.hex().encode("utf-8") : ', magicid.hex().encode('utf-8'))
+        print('id.hex().encode("utf-16") : ', magicid.hex().encode('utf-16'))
         print('type(id) : ', type(magicid))
         print('---------')
         print('id.decode("ISO-8859-1") : ', magicid.decode("ISO-8859-1"))
+        print('id.decode("utf-16") : ', magicid.decode("utf-16"))
         print('---------')
 
 
-        print('Number of BBAT Depot : ', num_BBAT_depot)
-        print('Start block of Property : ', startblock_property)
-        print('Start block of SBAT : ', startblock_SBAT)
-        print('Number of SBAT Depot : ', num_SBAT_depot)
-        print('Array of BBAT Depot members : ', array_BBAT_depot_members)
+        # test = hexlify(magicid).hex()
+
+        # import base64
+        # data = base64.b16decode(test).decode('utf-16')
+        # print(data)
+
+        # print('Number of BBAT Depot : ', num_BBAT_depot)
+        # print('Start block of Property : ', startblock_property)
+        # print('Start block of SBAT : ', startblock_SBAT)
+        # print('Number of SBAT Depot : ', num_SBAT_depot)
+        # print('Array of BBAT Depot members : ', array_BBAT_depot_members)
