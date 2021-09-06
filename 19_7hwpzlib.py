@@ -33,8 +33,11 @@ with open(fname, 'rb') as fp:
         print('header : ', header)
         print('id.decode("ISO-8859-1") : ', header.decode("ISO-8859-1"))
         # print(stream1)
-        print(stream1)
+        # print(stream1)
         # print(stream1.decode('utf-16le'))
+        with open('stream1.dmp', 'wb') as fp:
+            fp.write(stream1)
 
-        output = zlib.decompress(stream1, -15)
+        # print(stream1.hex())
+        output = zlib.decompress(stream1, -15) 
         # print(output)

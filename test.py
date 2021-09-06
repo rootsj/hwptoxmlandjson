@@ -1,19 +1,34 @@
 import sys
 
 sys.stdin = open('test.txt', 'r')
+
 n = int(input())
-# k, n = map(int, input().split())
-lst = list(map(int, input().split()))
+arr=list(map(int, input().split()))
 
-m = int(input())
 
-lst.sort(reverse=True)
+lt = 0
+rt = n-1
+last = 0
+res = ''
+tmp = []
 
-print(lst)
-# max = 0
-# for i in range(m):
-#     if x > max:
-#         x = x -1
-#         max = x
-    
+while lt <= rt:
+    if arr[lt] > last:
+        tmp.append((arr[lt], 'L'))
+    if arr[rt] > last:
+        tmp.append((arr[rt], 'R'))
+    tmp.sort()
 
+    if len(tmp) == 0:
+        break
+    else:
+        res = res + tmp[0][1]
+        last = tmp[0][0]
+        if tmp[0][1] == "L":
+            lt += 1
+        else:
+            rt -= 1
+    tmp.clear()
+
+print(len(res))
+print(res)

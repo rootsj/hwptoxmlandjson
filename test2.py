@@ -1,62 +1,40 @@
-n = 7
-data = [6, 6, 0, 1]
+import sys
+from collections import deque
 
-s = data[:2]
-d = data[2:]
+sys.stdin = open('test.txt', 'r')
 
-def m1(lst):
-    lst[0] = lst[0] - 2
-    lst[1] = lst[1] - 1
-    return lst
+n = int(input())
+arr=list(map(int, input().split()))
 
-def m2(lst):
-    lst[0] = lst[0] - 2
-    lst[1] = lst[1] + 1
-    return lst
 
-def m3(lst):
-    lst[1] = lst[1] - 2
-    return lst
+arr = deque(arr)
+def bool(arr, tmp):
+    if len(arr) == 1:
+        return True
+    if arr[0] < arr[-1] and arr[0] > tmp:
+        return True
+    elif arr[0] > arr[-1] and arr[-1] > tmp:
+        return True
+    else:
+        return False
 
-def m4(lst):
-    lst[1] = lst[1] + 2
-    return lst
+def test(arr, tmp):
+    if len(arr) == 1:
+        return (arr.pop(), "L")
+    elif arr[0] < arr[-1] and arr[0] > tmp:
+        return (arr.popleft(), "L")
+    elif arr[0] > arr[-1] and arr[-1] > tmp:
+        return (arr.pop(), "R")
 
-def m5(lst):
-    lst[0] = lst[0] + 2
-    lst[1] = lst[1] - 1
-    return lst
-
-def m6(lst):
-    lst[0] = lst[0] + 2
-    lst[1] = lst[1] + 1
-    return lst
-
-def move(s):
-    move1 = m1(s.copy())
-    move2 = m2(s.copy())
-    move3 = m3(s.copy())
-    move4 = m4(s.copy())
-    move5 = m5(s.copy())
-    move6 = m6(s.copy())
-    return [move1, move2, move3, move4, move5, move6]
-    
-cnt = 0
-slst = [s]
-while True:
-    cnt += 1
-    
-    for i in slst:
-        temp = move(i)
-        slst += temp
-        del slst[slst.index(i)]
-        
-    for i in slst:
-        if i[0] < 0 or i[0] >= n or i[1] < 0 or i[1] >= n:
-            del slst[slst.index(i)]
-
-    if d in slst:
+res = ''
+tmp = 0
+for _ in range(len(arr)):
+    if bool(arr, tmp):
+        n, s = test(arr, tmp)
+        res += s
+        tmp = n
+    else:
         break
-            
-print(cnt)
-    
+
+print(len(res))
+print(res)

@@ -25,4 +25,4 @@ for i in range(num_bbd):
     print(off)
     bbd += buf[off:off+0x200].decode('utf-8')
 
-# print(bbd)
+print(bbd)

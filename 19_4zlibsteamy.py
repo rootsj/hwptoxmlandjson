@@ -13,6 +13,7 @@ import zlib
 with olefile.OleFileIO('C:/Users/rootsj/Desktop/hiconsy/static/00n-S190106-example.hwp') as ole:
     test = ole.openstream('BodyText/Section0')
     data = test.read()
+    print(data)
 
 # wbits = zlib.MAX_WBITS
 
@@ -34,5 +35,5 @@ with olefile.OleFileIO('C:/Users/rootsj/Desktop/hiconsy/static/00n-S190106-examp
 
 output = zlib.decompress(data, -15)
 # print(output)
-print(output.decode("cp949"))
+print(output)
 
