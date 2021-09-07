@@ -5,30 +5,15 @@ sys.stdin = open('test.txt', 'r')
 n = int(input())
 arr=list(map(int, input().split()))
 
-
-lt = 0
-rt = n-1
-last = 0
-res = ''
-tmp = []
-
-while lt <= rt:
-    if arr[lt] > last:
-        tmp.append((arr[lt], 'L'))
-    if arr[rt] > last:
-        tmp.append((arr[rt], 'R'))
-    tmp.sort()
-
-    if len(tmp) == 0:
-        break
-    else:
-        res = res + tmp[0][1]
-        last = tmp[0][0]
-        if tmp[0][1] == "L":
-            lt += 1
-        else:
-            rt -= 1
-    tmp.clear()
-
-print(len(res))
+lst = [1] * n
+res = [0] * n
+for i in range(n):
+    cnt = 0
+    for j in range(n+1):
+        if arr[i] == cnt - 1:
+            lst[j-1] = 0
+            res[j-1] = i+1
+            break
+        cnt += lst[j]
+            
 print(res)
