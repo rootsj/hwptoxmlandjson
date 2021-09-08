@@ -109,7 +109,7 @@ for i in range(num_pps):
     elif ppsl[0x42] == 2:
         pps_type = 'Stream'
     else:
-        pps_type = 'Unkbown'
+        pps_type = 'Unknown'
 
     start = GetDword(ppsl, 0x74)
     size = GetDword(ppsl, 0x78)

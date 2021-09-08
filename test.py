@@ -1,19 +1,29 @@
 import sys
-
+from collections import deque
 sys.stdin = open('test.txt', 'r')
 
-n = int(input())
-arr=list(map(int, input().split()))
+# n = int(input())
+# arr=list(map(int, input().split()))
 
-lst = [1] * n
-res = [0] * n
-for i in range(n):
-    cnt = 0
-    for j in range(n+1):
-        if arr[i] == cnt - 1:
-            lst[j-1] = 0
-            res[j-1] = i+1
+n, k = map(int, input().split())
+
+lst = list(map(int, str(n)))
+lst = deque(lst)
+cnt = 0
+while cnt < k:
+    for i in range(len(lst)-1):
+        if lst[i] < lst[i+1]:
+            del lst[i]
+            cnt += 1
             break
-        cnt += lst[j]
-            
+    else:
+        # tmp = min(lst)
+        # lst.remove(tmp)
+        lst.pop()
+        cnt += 1
+
+res = 0
+for i in range(len(lst)):
+    res += lst[i]*10**(len(lst)-i-1)
+
 print(res)
