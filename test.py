@@ -1,29 +1,38 @@
 import sys
-from collections import deque
 sys.stdin = open('test.txt', 'r')
 
 # n = int(input())
 # arr=list(map(int, input().split()))
 
-n, k = map(int, input().split())
+razer = list(input())
 
-lst = list(map(int, str(n)))
-lst = deque(lst)
-cnt = 0
-while cnt < k:
-    for i in range(len(lst)-1):
-        if lst[i] < lst[i+1]:
-            del lst[i]
-            cnt += 1
-            break
-    else:
-        # tmp = min(lst)
-        # lst.remove(tmp)
-        lst.pop()
-        cnt += 1
-
+stack = []
 res = 0
-for i in range(len(lst)):
-    res += lst[i]*10**(len(lst)-i-1)
 
+for x in razer:
+    stack.append(x)
+
+    if x == ')':
+        stack.pop()
+        tmp = stack[-1]
+        tmp_len = len(stack)
+        cnt = 0
+        for i in range(-1, -tmp_len - 1, -1):
+            if stack[i+cnt] == 0:
+                cnt += 1
+                stack.pop()
+
+            elif stack[i+cnt] == '(' and cnt == 0:
+                stack.pop()
+                stack.append(0)
+                break
+            else:
+                stack.pop()
+                res += 1
+                for i in range(cnt):
+                    stack.append(0)
+                    res += 1
+                break
+
+print(stack)
 print(res)

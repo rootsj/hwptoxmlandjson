@@ -82,7 +82,7 @@ while True:
         break
     off = (start_sec+1) << 9
     print(off)
-    section0 += buf[off:off+0x80]
+    section0 += buf[off:off+0x40]
     start_sec = GetDword(sbd, start_sec*4)
 
 print(section0)
