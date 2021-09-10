@@ -4,35 +4,30 @@ sys.stdin = open('test.txt', 'r')
 # n = int(input())
 # arr=list(map(int, input().split()))
 
-razer = list(input())
-
+lst = input()
 stack = []
-res = 0
+res = ''
 
-for x in razer:
-    stack.append(x)
+for x in lst:
+    if x.isdecimal():
+        res += x
+    else:
+        if x == '(':
+            stack.append(x)
+        elif x == '*' or x == '/':
+            while stack and (stack[-1] == '*' or stack[-1] == '/'):
+                res+=stack.pop()
+            stack.append(x)
+        elif x == '+' or x == '-':
+            while stack and stack[-1] != '(':
+                res += stack.pop()
+            stack.append(x)
+        elif x == ')':
+            while stack and stack[-1] != '(':
+                res += stack.pop()
+            stack.pop()
+while stack:
+    res += stack.pop()
 
-    if x == ')':
-        stack.pop()
-        tmp = stack[-1]
-        tmp_len = len(stack)
-        cnt = 0
-        for i in range(-1, -tmp_len - 1, -1):
-            if stack[i+cnt] == 0:
-                cnt += 1
-                stack.pop()
-
-            elif stack[i+cnt] == '(' and cnt == 0:
-                stack.pop()
-                stack.append(0)
-                break
-            else:
-                stack.pop()
-                res += 1
-                for i in range(cnt):
-                    stack.append(0)
-                    res += 1
-                break
-
-print(stack)
 print(res)
+print(stack)
